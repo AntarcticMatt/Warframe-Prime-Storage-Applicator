@@ -1,0 +1,314 @@
+{"payload": {"item": {"id": "6242037666a58f0108c3d47a"
+ "items_in_set": [{"icon_format": "port"
+ "trading_tax": 8000
+ "set_root": true
+ "url_name": "corvas_prime_set"
+ "sub_icon": null
+ "tags": ["archwing"
+ "primary"
+ "weapon"
+ "prime"
+ "set"]
+ "thumb": "items/images/en/thumbs/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+ "id": "6242037666a58f0108c3d47a"
+ "mastery_level": 14
+ "icon": "items/images/en/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.png"
+ "ducats": 175
+ "en": {"item_name": "Corvas Prime Set"
+ "description": "Flaunting ceremonial beauty
+ this arch gun flak cannon is even more devastating than its standard issue counterpart."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0432\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u0412\u044b\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u043d\u0430\u043f\u043e\u043a\u0430\u0437 \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u0438\u0437\u044f\u0449\u0435\u0441\u0442\u0432\u043e
+ \u044d\u0442\u0430 \u0437\u0435\u043d\u0438\u0442\u043d\u0430\u044f \u0430\u0440\u0442\u0438\u043b\u043b\u0435\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u043f\u0443\u0448\u043a\u0430 \u0435\u0449\u0435 \u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u0430
+ \u0447\u0435\u043c \u0435\u0435 \u043e\u0431\u044b\u0447\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub974\ubc14\uc2a4 \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\uaca9\uc2dd \uc788\ub294 \uc544\ub984\ub2e4\uc6c0\uc744 \uacfc\uc2dc\ud558\ub294 \uc774 \uc544\ud06c\uc719 \ub300\uacf5\ud3ec\ub294 \ubcf8\ub798\uc758 \uae30\ubcf8 \ud615\ud0dc\ubcf4\ub2e4\ub3c4 \ub354\uc6b1 \ud30c\uad34\uc801\uc778 \uc704\ub825\uc744 \uac16\ucd94\uace0 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Corvas Prime - Set"
+ "description": "Affichant une beaut\u00e9 c\u00e9r\u00e9monielle
+ ce Canon flak pour Archwing est encore plus d\u00e9vastateur que son homologue standard."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Corvas Prime Set"
+ "description": "Flaunting ceremonial beauty
+ this arch gun flak cannon is even more devastating than its standard issue counterpart."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "de": {"item_name": "Corvas Prime: Set"
+ "description": "Diese Arch-Gewehr Flak-Kanone
+ die zeremonielle Sch\u00f6nheit zur Schau stellt
+ ist noch verheerender als ihr Gegenst\u00fcck in der Standardausgabe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u9ed1\u9d09 Prime \u4e00\u5957"
+ "description": "\uff08\u82f1\u6587\uff1aCORVAS PRIME\uff09\u5982\u5100\u5f0f\u4e2d\u7684\u7f8e\u4eba\u822c\u62db\u6416\uff0c\u9019\u4e00\u628a Archwing \u69cd\u68b0\u7684\u9ad8\u5c04\u52a0\u8fb2\u7832\u6bd4\u6a19\u6e96\u7248\u672c\u66f4\u5177\u7834\u58de\u529b\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u9ed1\u9e26 Prime \u4e00\u5957"
+ "description": "\uff08\u82f1\u6587\uff1aCORVAS PRIME\uff09\u62db\u6447\u53c8\u8003\u7a76\u7684\u7f8e\u4eba\uff0c\u8fd9\u6b3e Archwing \u67aa\u68b0\u7248\u9ad8\u5c04\u70ae\u6bd4\u5176\u6807\u51c6\u7248\u66f4\u5177\u7834\u574f\u6027\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Corvas Prime: Conjunto"
+ "description": "Exibindo sua beleza cerimonial
+ esta Arch-Arma antia\u00e9rea \u00e9 ainda mais devastadora do que a sua vers\u00e3o padr\u00e3o."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "es": {"item_name": "Set de Corvas Prime"
+ "description": "Haciendo alarde de una belleza ceremonial
+ este archca\u00f1\u00f3n antia\u00e9reo es a\u00fan m\u00e1s devastador que su contraparte est\u00e1ndar."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Corvas Prime: Zestaw"
+ "description": "Obnosz\u0105c si\u0119 ceremonialnym pi\u0119knem
+ to dzia\u0142o Archgun jest bardziej niszczecielskie ni\u017c jego standardowy odpowiednik."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}}
+ {"icon_format": "port"
+ "quantity_for_set": 1
+ "trading_tax": 2000
+ "set_root": false
+ "url_name": "corvas_prime_barrel"
+ "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png"
+ "tags": ["component"
+ "weapon"
+ "prime"]
+ "thumb": "items/images/en/thumbs/corvas_prime_barrel.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+ "id": "6242037666a58f0108c3d47f"
+ "mastery_level": 14
+ "icon": "items/images/en/corvas_prime_barrel.f6bd98b0b4a2491580a40775708b21f4.png"
+ "ducats": 100
+ "en": {"item_name": "Corvas Prime Barrel"
+ "description": "An Archwing weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0432\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u0421\u0442\u0432\u043e\u043b"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f \u0430\u0440\u0447\u0432\u0438\u043d\u0433\u0430."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub974\ubc14\uc2a4 \ud504\ub77c\uc784 \ubc30\ub7f4"
+ "description": "\uc544\ud06c\uc719 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Corvas Prime - Canon"
+ "description": "Un composant servant \u00e0 la fabrication d'armes d'Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Corvas Prime Barrel"
+ "description": "An Archwing weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "de": {"item_name": "Corvas Prime: Lauf"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Archwing Waffen."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u9ed1\u9d09 Prime \u69cd\u7ba1"
+ "description": "\u88fd\u4f5c Archwing \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u9ed1\u9e26 Prime \u67aa\u7ba1"
+ "description": "\u4e00\u4e2a Archwing \u6b66\u5668\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Corvas Prime: Cano"
+ "description": "Um componente de fabrica\u00e7\u00e3o de armas Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "es": {"item_name": "Ca\u00f1\u00f3n De Corvas Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma de archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Corvas Prime: Lufa"
+ "description": "Element wytwarzania broni Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}}
+ {"icon_format": "port"
+ "quantity_for_set": 1
+ "trading_tax": 2000
+ "set_root": false
+ "url_name": "corvas_prime_blueprint"
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "tags": ["archwing"
+ "primary"
+ "weapon"
+ "prime"
+ "blueprint"]
+ "thumb": "items/images/en/thumbs/corvas_prime_blueprint.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+ "id": "6242037666a58f0108c3d480"
+ "mastery_level": 14
+ "icon": "items/images/en/corvas_prime_blueprint.f6bd98b0b4a2491580a40775708b21f4.png"
+ "ducats": 45
+ "en": {"item_name": "Corvas Prime Blueprint"
+ "description": "Flaunting ceremonial beauty
+ this arch gun flak cannon is even more devastating than its standard issue counterpart."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0432\u0430\u0441 \u041f\u0440\u0430\u0439\u043c (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u0412\u044b\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u043d\u0430\u043f\u043e\u043a\u0430\u0437 \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u0438\u0437\u044f\u0449\u0435\u0441\u0442\u0432\u043e
+ \u044d\u0442\u0430 \u0437\u0435\u043d\u0438\u0442\u043d\u0430\u044f \u0430\u0440\u0442\u0438\u043b\u043b\u0435\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u043f\u0443\u0448\u043a\u0430 \u0435\u0449\u0435 \u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u0430
+ \u0447\u0435\u043c \u0435\u0435 \u043e\u0431\u044b\u0447\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub974\ubc14\uc2a4 \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\uaca9\uc2dd \uc788\ub294 \uc544\ub984\ub2e4\uc6c0\uc744 \uacfc\uc2dc\ud558\ub294 \uc774 \uc544\ud06c\uc719 \ub300\uacf5\ud3ec\ub294 \ubcf8\ub798\uc758 \uae30\ubcf8 \ud615\ud0dc\ubcf4\ub2e4\ub3c4 \ub354\uc6b1 \ud30c\uad34\uc801\uc778 \uc704\ub825\uc744 \uac16\ucd94\uace0 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Corvas Prime (Sch\u00e9ma)"
+ "description": "Affichant une beaut\u00e9 c\u00e9r\u00e9monielle
+ ce Canon flak pour Archwing est encore plus d\u00e9vastateur que son homologue standard."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Corvas Prime Blueprint"
+ "description": "Flaunting ceremonial beauty
+ this arch gun flak cannon is even more devastating than its standard issue counterpart."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "de": {"item_name": "Corvas Prime Blaupause"
+ "description": "Diese Arch-Gewehr Flak-Kanone
+ die zeremonielle Sch\u00f6nheit zur Schau stellt
+ ist noch verheerender als ihr Gegenst\u00fcck in der Standardausgabe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u9ed1\u9d09 Prime \u85cd\u5716"
+ "description": "\uff08\u82f1\u6587\uff1aCORVAS PRIME\uff09\u5982\u5100\u5f0f\u4e2d\u7684\u7f8e\u4eba\u822c\u62db\u6416\uff0c\u9019\u4e00\u628a Archwing \u69cd\u68b0\u7684\u9ad8\u5c04\u52a0\u8fb2\u7832\u6bd4\u6a19\u6e96\u7248\u672c\u66f4\u5177\u7834\u58de\u529b\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u9ed1\u9e26 Prime \u84dd\u56fe"
+ "description": "\uff08\u82f1\u6587\uff1aCORVAS PRIME\uff09\u62db\u6447\u53c8\u8003\u7a76\u7684\u7f8e\u4eba\uff0c\u8fd9\u6b3e Archwing \u67aa\u68b0\u7248\u9ad8\u5c04\u70ae\u6bd4\u5176\u6807\u51c6\u7248\u66f4\u5177\u7834\u574f\u6027\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Corvas Prime (Diagrama)"
+ "description": "Exibindo sua beleza cerimonial
+ esta Arch-Arma antia\u00e9rea \u00e9 ainda mais devastadora do que a sua vers\u00e3o padr\u00e3o."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Corvas Prime"
+ "description": "Haciendo alarde de una belleza ceremonial
+ este archca\u00f1\u00f3n antia\u00e9reo es a\u00fan m\u00e1s devastador que su contraparte est\u00e1ndar."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Corvas Prime - Schemat"
+ "description": "Obnosz\u0105c si\u0119 ceremonialnym pi\u0119knem
+ to dzia\u0142o Archgun jest bardziej niszczecielskie ni\u017c jego standardowy odpowiednik."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}}
+ {"icon_format": "port"
+ "quantity_for_set": 1
+ "trading_tax": 2000
+ "set_root": false
+ "url_name": "corvas_prime_stock"
+ "sub_icon": "sub_icons/weapon/prime_stock_128x128.png"
+ "tags": ["component"
+ "weapon"
+ "prime"]
+ "thumb": "items/images/en/thumbs/corvas_prime_stock.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+ "id": "6242037666a58f0108c3d484"
+ "mastery_level": 14
+ "icon": "items/images/en/corvas_prime_stock.f6bd98b0b4a2491580a40775708b21f4.png"
+ "ducats": 15
+ "en": {"item_name": "Corvas Prime Stock"
+ "description": "An Archwing weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0432\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041f\u0440\u0438\u043a\u043b\u0430\u0434"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f \u0430\u0440\u0447\u0432\u0438\u043d\u0433\u0430."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub974\ubc14\uc2a4 \ud504\ub77c\uc784 \uc2a4\ud1a1"
+ "description": "\uc544\ud06c\uc719 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Corvas Prime - Crosse"
+ "description": "Un composant servant \u00e0 la fabrication d'armes d'Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Corvas Prime Stock"
+ "description": "An Archwing weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "de": {"item_name": "Corvas Prime: Schaft"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Archwing Waffen."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u9ed1\u9d09 Prime \u69cd\u6258"
+ "description": "\u88fd\u4f5c Archwing \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u9ed1\u9e26 Prime \u67aa\u6258"
+ "description": "\u4e00\u4e2a Archwing \u6b66\u5668\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Corvas Prime: Coronha"
+ "description": "Um componente de fabrica\u00e7\u00e3o de armas Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "es": {"item_name": "Culata De Corvas Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma de archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Corvas Prime: Kolba"
+ "description": "Element wytwarzania broni Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}}
+ {"icon_format": "port"
+ "quantity_for_set": 1
+ "trading_tax": 2000
+ "set_root": false
+ "url_name": "corvas_prime_receiver"
+ "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png"
+ "tags": ["component"
+ "weapon"
+ "prime"]
+ "thumb": "items/images/en/thumbs/corvas_prime_receiver.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+ "id": "6242037766a58f0108c3d48a"
+ "mastery_level": 14
+ "icon": "items/images/en/corvas_prime_receiver.f6bd98b0b4a2491580a40775708b21f4.png"
+ "ducats": 15
+ "en": {"item_name": "Corvas Prime Receiver"
+ "description": "An Archwing weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0432\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041f\u0440\u0438\u0451\u043c\u043d\u0438\u043a"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f \u0430\u0440\u0447\u0432\u0438\u043d\u0433\u0430."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub974\ubc14\uc2a4 \ud504\ub77c\uc784 \ub9ac\uc2dc\ubc84"
+ "description": "\uc544\ud06c\uc719 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Corvas Prime - Culasse"
+ "description": "Un composant servant \u00e0 la fabrication d'armes d'Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Corvas Prime Receiver"
+ "description": "An Archwing weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "de": {"item_name": "Corvas Prime: Geh\u00e4use"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Archwing Waffen."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u9ed1\u9d09 Prime \u69cd\u6a5f"
+ "description": "\u88fd\u4f5c Archwing \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u9ed1\u9e26 Prime \u67aa\u673a"
+ "description": "\u4e00\u4e2a Archwing \u6b66\u5668\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Corvas Prime: Receptor"
+ "description": "Um componente de fabrica\u00e7\u00e3o de armas Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "es": {"item_name": "Receptor De Corvas Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma de archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Corvas Prime: Korpus"
+ "description": "Element wytwarzania broni Archwing."
+ "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime"
+ "drop": []}}]}}}

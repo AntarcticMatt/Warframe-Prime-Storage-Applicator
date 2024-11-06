@@ -1,0 +1,296 @@
+{"payload": {"item": {"id": "5a311f84c2c9e90dfff475f1"
+ "items_in_set": [{"icon_format": "land"
+ "icon": "items/images/en/akbolto_prime_receiver.fdb7b0be60ed776a1ba1d800d7cda22b.png"
+ "tags": ["component"
+ "weapon"
+ "prime"]
+ "ducats": 100
+ "set_root": false
+ "quantity_for_set": 2
+ "url_name": "akbolto_prime_receiver"
+ "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png"
+ "mastery_level": 13
+ "id": "5a311f83c2c9e90dfff475d4"
+ "trading_tax": 2000
+ "thumb": "items/images/en/thumbs/akbolto_prime_receiver.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png"
+ "en": {"item_name": "Akbolto Prime Receiver"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u043a\u0431\u043e\u043b\u0442\u043e \u041f\u0440\u0430\u0439\u043c: \u041f\u0440\u0438\u0451\u043c\u043d\u0438\u043a"
+ "description": "\u041f\u0440\u0430\u0439\u043c-\u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B1%D0%BE%D0%BB%D1%82%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud06c\ubcfc\ud1a0 \ud504\ub77c\uc784 \ub9ac\uc2dc\ubc84"
+ "description": "\ud504\ub77c\uc784 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "fr": {"item_name": "Akbolto Prime - Culasse"
+ "description": "Un composant servant \u00e0 la fabrication d'armes Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Akbolto_Prime"
+ "drop": []}
+ "sv": {"item_name": "Akbolto Prime Receiver"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "de": {"item_name": "Akbolto Prime: Geh\u00e4use"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u87ba\u91d8\u96d9\u69cd Prime \u69cd\u6a5f"
+ "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u87ba\u9489\u53cc\u67aa Prime \u67aa\u673a"
+ "description": "\u4e00\u4e2a Prime \u6b66\u5668\u7684\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "pt": {"item_name": "Akbolto Prime: Receptor"
+ "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akbolto_Prime"
+ "drop": []}
+ "es": {"item_name": "Receptor De Akbolto Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Akbolto_Prime"
+ "drop": []}
+ "pl": {"item_name": "Akbolto Prime: Korpus"
+ "description": "Element wytwarzania broni Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Akbolto_Prime"
+ "drop": []}}
+ {"icon_format": "land"
+ "icon": "items/images/en/akbolto_prime_blueprint.fdb7b0be60ed776a1ba1d800d7cda22b.png"
+ "tags": ["weapon"
+ "prime"
+ "secondary"
+ "blueprint"]
+ "ducats": 15
+ "set_root": false
+ "quantity_for_set": 1
+ "url_name": "akbolto_prime_blueprint"
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "mastery_level": 13
+ "id": "5a311f83c2c9e90dfff475d5"
+ "trading_tax": 2000
+ "thumb": "items/images/en/thumbs/akbolto_prime_blueprint.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png"
+ "en": {"item_name": "Akbolto Prime Blueprint"
+ "description": "Gilded rails adorn these two vicious bolt launching pistols."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u043a\u0431\u043e\u043b\u0442\u043e \u041f\u0440\u0430\u0439\u043c (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041f\u043e\u0437\u043e\u043b\u043e\u0447\u0435\u043d\u043d\u044b\u0435 \u043f\u043b\u0430\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0448\u0430\u044e\u0442 \u044d\u0442\u0438 \u0443\u0436\u0430\u0441\u0430\u044e\u0449\u0438\u0435 \u043f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u044b."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B1%D0%BE%D0%BB%D1%82%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud06c\ubcfc\ud1a0 \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\uae08\ube5b\uc73c\ub85c \ub3c4\uae08\ub41c \ub808\uc77c \ubaa8\uc591\uc758 \uc7a5\uc2dd\uc774 \uc774 \ub450 \uc815\uc758 \ub9e4\uc11c\uc6b4 \ubcfc\ud2b8 \uad8c\ucd1d\uc744 \uc7a5\uc2dd\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "fr": {"item_name": "Akbolto Prime (Sch\u00e9ma)"
+ "description": "Des rails dor\u00e9s embellissent ces deux dangereux Pistolets lanceurs de carreaux."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Akbolto_Prime"
+ "drop": []}
+ "sv": {"item_name": "Akbolto Prime Blueprint"
+ "description": "Gilded rails adorn these two vicious bolt launching pistols."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "de": {"item_name": "Akbolto Prime Blaupause"
+ "description": "Vergoldete Schienen verzieren diese grausamen
+ Bolzen verschie\u00dfenden Pistolen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u87ba\u91d8\u96d9\u69cd Prime \u85cd\u5716"
+ "description": "\uff08\u82f1\u6587\uff1aAKBOLTO PRIME\uff09\u934d\u91d1\u7684\u5c0e\u8ecc\u88dd\u98fe\u8457\u9019\u5c0d\u5147\u731b\u7684\u91d8\u69cd\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u87ba\u9489\u53cc\u67aa Prime \u84dd\u56fe"
+ "description": "\uff08\u82f1\u6587\uff1aAkbolto Prime\uff09\u9540\u91d1\u7684\u5bfc\u8f68\u88c5\u9970\u7740\u8fd9\u5bf9\u51f6\u731b\u7684\u9489\u67aa\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "pt": {"item_name": "Akbolto Prime (Diagrama)"
+ "description": "Adornos dourados decoram estas duas pistolas que disparam dardos."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akbolto_Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Akbolto Prime"
+ "description": "Bordes ornamentados adornan estas dos maliciosas pistolas lanza clavos."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Akbolto_Prime"
+ "drop": []}
+ "pl": {"item_name": "Akbolto Prime - Schemat"
+ "description": "Poz\u0142acane szyny ozdabiaj\u0105 te dwa zajad\u0142e
+ strzelaj\u0105ce be\u0142tami pistolety."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Akbolto_Prime"
+ "drop": []}}
+ {"icon_format": "land"
+ "icon": "items/images/en/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.png"
+ "tags": ["weapon"
+ "prime"
+ "secondary"
+ "set"]
+ "ducats": 350
+ "set_root": true
+ "url_name": "akbolto_prime_set"
+ "sub_icon": null
+ "mastery_level": 13
+ "id": "5a311f84c2c9e90dfff475f1"
+ "trading_tax": 12000
+ "thumb": "items/images/en/thumbs/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png"
+ "en": {"item_name": "Akbolto Prime Set"
+ "description": "Gilded rails adorn these two vicious bolt launching pistols."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u043a\u0431\u043e\u043b\u0442\u043e \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u041f\u043e\u0437\u043e\u043b\u043e\u0447\u0435\u043d\u043d\u044b\u0435 \u043f\u043b\u0430\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0448\u0430\u044e\u0442 \u044d\u0442\u0438 \u0443\u0436\u0430\u0441\u0430\u044e\u0449\u0438\u0435 \u043f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u044b."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B1%D0%BE%D0%BB%D1%82%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud06c\ubcfc\ud1a0 \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\uae08\ube5b\uc73c\ub85c \ub3c4\uae08\ub41c \ub808\uc77c \ubaa8\uc591\uc758 \uc7a5\uc2dd\uc774 \uc774 \ub450 \uc815\uc758 \ub9e4\uc11c\uc6b4 \ubcfc\ud2b8 \uad8c\ucd1d\uc744 \uc7a5\uc2dd\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "fr": {"item_name": "Akbolto Prime - Set"
+ "description": "Des rails dor\u00e9s embellissent ces deux dangereux Pistolets lanceurs de carreaux."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Akbolto_Prime"
+ "drop": []}
+ "sv": {"item_name": "Akbolto Prime Set"
+ "description": "Gilded rails adorn these two vicious bolt launching pistols."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "de": {"item_name": "Akbolto Prime: Set"
+ "description": "Vergoldete Schienen verzieren diese grausamen
+ Bolzen verschie\u00dfenden Pistolen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u87ba\u91d8\u96d9\u69cd Prime \u4e00\u5957"
+ "description": "\uff08\u82f1\u6587\uff1aAKBOLTO PRIME\uff09\u934d\u91d1\u7684\u5c0e\u8ecc\u88dd\u98fe\u8457\u9019\u5c0d\u5147\u731b\u7684\u91d8\u69cd\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u87ba\u9489\u53cc\u67aa Prime \u4e00\u5957"
+ "description": "\uff08\u82f1\u6587\uff1aAkbolto Prime\uff09\u9540\u91d1\u7684\u5bfc\u8f68\u88c5\u9970\u7740\u8fd9\u5bf9\u51f6\u731b\u7684\u9489\u67aa\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "pt": {"item_name": "Akbolto Prime: Conjunto"
+ "description": "Adornos dourados decoram estas duas pistolas que disparam dardos."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akbolto_Prime"
+ "drop": []}
+ "es": {"item_name": "Set de Akbolto Prime"
+ "description": "Bordes ornamentados adornan estas dos maliciosas pistolas lanza clavos."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Akbolto_Prime"
+ "drop": []}
+ "pl": {"item_name": "Akbolto Prime: Zestaw"
+ "description": "Poz\u0142acane szyny ozdabiaj\u0105 te dwa zajad\u0142e
+ strzelaj\u0105ce be\u0142tami pistolety."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Akbolto_Prime"
+ "drop": []}}
+ {"icon_format": "land"
+ "icon": "items/images/en/akbolto_prime_link.fdb7b0be60ed776a1ba1d800d7cda22b.png"
+ "tags": ["component"
+ "weapon"
+ "prime"]
+ "ducats": 45
+ "set_root": false
+ "quantity_for_set": 1
+ "url_name": "akbolto_prime_link"
+ "sub_icon": "sub_icons/weapon/prime_link_128x128.png"
+ "mastery_level": 13
+ "id": "5a311f84c2c9e90dfff475f3"
+ "trading_tax": 2000
+ "thumb": "items/images/en/thumbs/akbolto_prime_link.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png"
+ "en": {"item_name": "Akbolto Prime Link"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u043a\u0431\u043e\u043b\u0442\u043e \u041f\u0440\u0430\u0439\u043c: \u0421\u0432\u044f\u0437\u044c"
+ "description": "\u041f\u0440\u0430\u0439\u043c-\u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B1%D0%BE%D0%BB%D1%82%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud06c\ubcfc\ud1a0 \ud504\ub77c\uc784 \ub9c1\ud06c"
+ "description": "\ud504\ub77c\uc784 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "fr": {"item_name": "Akbolto Prime - Lien"
+ "description": "Un composant servant \u00e0 la fabrication d'armes Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Akbolto_Prime"
+ "drop": []}
+ "sv": {"item_name": "Akbolto Prime Link"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "de": {"item_name": "Akbolto Prime: Verbindung"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u87ba\u91d8\u96d9\u69cd Prime \u9023\u63a5\u5668"
+ "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u87ba\u9489\u53cc\u67aa Prime \u8fde\u63a5\u5668"
+ "description": "\u4e00\u4e2a Prime \u6b66\u5668\u7684\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "pt": {"item_name": "Akbolto Prime: Conex\u00e3o"
+ "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akbolto_Prime"
+ "drop": []}
+ "es": {"item_name": "Enlace De Akbolto Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Akbolto_Prime"
+ "drop": []}
+ "pl": {"item_name": "Akbolto Prime: Po\u0142\u0105czenie"
+ "description": "Element wytwarzania broni Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Akbolto_Prime"
+ "drop": []}}
+ {"icon_format": "land"
+ "icon": "items/images/en/akbolto_prime_barrel.fdb7b0be60ed776a1ba1d800d7cda22b.png"
+ "tags": ["component"
+ "weapon"
+ "prime"]
+ "ducats": 45
+ "set_root": false
+ "quantity_for_set": 2
+ "url_name": "akbolto_prime_barrel"
+ "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png"
+ "mastery_level": 13
+ "id": "5a311f85c2c9e90dfff475f7"
+ "trading_tax": 2000
+ "thumb": "items/images/en/thumbs/akbolto_prime_barrel.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png"
+ "en": {"item_name": "Akbolto Prime Barrel"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u043a\u0431\u043e\u043b\u0442\u043e \u041f\u0440\u0430\u0439\u043c: \u0421\u0442\u0432\u043e\u043b"
+ "description": "\u041f\u0440\u0430\u0439\u043c-\u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B1%D0%BE%D0%BB%D1%82%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud06c\ubcfc\ud1a0 \ud504\ub77c\uc784 \ubc30\ub7f4"
+ "description": "\ud504\ub77c\uc784 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "fr": {"item_name": "Akbolto Prime - Canon"
+ "description": "Un composant servant \u00e0 la fabrication d'armes Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Akbolto_Prime"
+ "drop": []}
+ "sv": {"item_name": "Akbolto Prime Barrel"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "de": {"item_name": "Akbolto Prime: Lauf"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u87ba\u91d8\u96d9\u69cd Prime \u69cd\u7ba1"
+ "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u87ba\u9489\u53cc\u67aa Prime \u67aa\u7ba1"
+ "description": "\u4e00\u4e2a Prime \u6b66\u5668\u7684\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Akbolto_Prime"
+ "drop": []}
+ "pt": {"item_name": "Akbolto Prime: Cano"
+ "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akbolto_Prime"
+ "drop": []}
+ "es": {"item_name": "Ca\u00f1\u00f3n De Akbolto Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Akbolto_Prime"
+ "drop": []}
+ "pl": {"item_name": "Akbolto Prime: Lufa"
+ "description": "Element wytwarzania broni Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Akbolto_Prime"
+ "drop": []}}]}}}

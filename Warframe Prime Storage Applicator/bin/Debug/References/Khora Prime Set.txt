@@ -1,0 +1,319 @@
+{"payload": {"item": {"id": "62d3494075156700ce450df4"
+ "items_in_set": [{"quantity_for_set": 1
+ "url_name": "khora_prime_chassis_blueprint"
+ "tags": ["prime"
+ "component"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png"
+ "trading_tax": 2000
+ "ducats": 45
+ "thumb": "items/images/en/thumbs/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+ "id": "62d3493f75156700ce450ded"
+ "en": {"item_name": "Khora Prime Chassis Blueprint"
+ "description": "Chassis component of the Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441."
+ "wiki_link": null
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub77c \ud504\ub77c\uc784 \uc100\uc2dc \uc124\uacc4\ub3c4"
+ "description": "\ucf54\ub77c \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc100\uc2dc \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": null
+ "drop": []}
+ "fr": {"item_name": "Khora Prime - Ch\u00e2ssis (Sch\u00e9ma)"
+ "description": "Le composant Ch\u00e2ssis de la Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "sv": {"item_name": "Khora Prime Chassis Blueprint"
+ "description": "Chassis component of the Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "de": {"item_name": "Khora Prime: Chassis Blaupause"
+ "description": "Chassis-Komponente f\u00fcr den Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "zh-hant": {"item_name": "Khora Prime \u6a5f\u9ad4 \u85cd\u5716"
+ "description": "Khora Prime Warframe \u7684\u6a5f\u9ad4\u7d44\u4ef6\u3002"
+ "wiki_link": null
+ "drop": []}
+ "zh-hans": {"item_name": "Khora Prime \u673a\u4f53 \u84dd\u56fe"
+ "description": "Khora Prime \u6218\u7532\u7684\u673a\u4f53\u7ec4\u4ef6\u3002"
+ "wiki_link": null
+ "drop": []}
+ "pt": {"item_name": "Khora Prime: Chassi (Diagrama)"
+ "description": "Chassi componente do Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "es": {"item_name": "Plano de Chasis De Khora Prime"
+ "description": "Componente del chasis del warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "pl": {"item_name": "Khora Prime: Pow\u0142oka - Schemat"
+ "description": "Pow\u0142oka dla Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}}
+ {"url_name": "khora_prime_set"
+ "tags": ["prime"
+ "warframe"
+ "set"]
+ "set_root": true
+ "icon_format": "port"
+ "icon": "items/images/en/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.png"
+ "mastery_level": 0
+ "sub_icon": null
+ "trading_tax": 8000
+ "ducats": 260
+ "thumb": "items/images/en/thumbs/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+ "id": "62d3494075156700ce450df4"
+ "en": {"item_name": "Khora Prime Set"
+ "description": "A harmony of mistress and monster. The gilded huntress and her loyal Kavat
+ Venari
+ dominate the battlefield with their will."
+ "wiki_link": null
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u041a\u0440\u0430\u0441\u0430\u0432\u0438\u0446\u0430 \u0438 \u0447\u0443\u0434\u043e\u0432\u0438\u0449\u0435 \u0432 \u043e\u0434\u043d\u043e\u043c \u043b\u0438\u0446\u0435. \u0412\u043c\u0435\u0441\u0442\u0435 \u0441 \u0432\u0435\u0440\u043d\u044b\u043c \u043a\u0430\u0432\u0430\u0442\u043e\u043c \u0412\u0435\u043d\u0430\u0440\u0438 \u044d\u0442\u0430 \u043f\u043e\u0437\u043e\u043b\u043e\u0447\u0435\u043d\u043d\u0430\u044f \u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f."
+ "wiki_link": null
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub77c \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\uc5ec\uc8fc\uc778\uacfc \uadf8 \uad34\uc218\uac00 \uc774\ub904\ub0b4\ub294 \uc870\ud654. \uae08\ubc15\uc744 \ub450\ub978 \uc0ac\ub0e5\uafbc\uacfc \uadf8\ub140\uc758 \ucda9\uc131\uc2a4\ub7ec\uc6b4 \uce74\ubc27
+ \ubca0\ub098\ub9ac\ub294 \uc790\uc2e0\ub4e4\uc758 \uc758\uc9c0\ub85c\uc368 \uc804\uc7a5\uc744 \uc9c0\ubc30\ud569\ub2c8\ub2e4."
+ "wiki_link": null
+ "drop": []}
+ "fr": {"item_name": "Khora Prime - Set"
+ "description": "Ma\u00eetresse et monstre dans un ensemble harmonieux. Cette chasseresse par\u00e9e d'or et son loyal Kavat
+ Venari
+ dominent le champ de bataille de leur volont\u00e9."
+ "wiki_link": null
+ "drop": []}
+ "sv": {"item_name": "Khora Prime Set"
+ "description": "A harmony of mistress and monster. The gilded huntress and her loyal Kavat
+ Venari
+ dominate the battlefield with their will."
+ "wiki_link": null
+ "drop": []}
+ "de": {"item_name": "Khora Prime: Set"
+ "description": "Eine Harmonie aus Meisterin und Monster. Die veredelte J\u00e4gerin und ihr loyaler Kavat Venari dominieren das Schlachtfeld mit ihrem Willen."
+ "wiki_link": null
+ "drop": []}
+ "zh-hant": {"item_name": "Khora Prime \u4e00\u5957"
+ "description": "\u5973\u8c6a\u5091\u53ca\u5176\u731b\u7378\u4e4b\u9593\u7684\u6700\u4f73\u9ed8\u5951\u3002\u934d\u91d1\u7684\u5973\u7375\u624b\u548c\u5979\u7684\u5fe0\u8aa0\u5eab\u5a03\u2500\u2500\u8587\u5a1c\u9e97\uff0c\u4ee5\u5979\u5011\u7684\u610f\u5fd7\u7a31\u9738\u6230\u5834\u3002"
+ "wiki_link": null
+ "drop": []}
+ "zh-hans": {"item_name": "Khora Prime \u4e00\u5957"
+ "description": "\u5973\u80fd\u624b\u548c\u602a\u7269\u7684\u9ed8\u5951\u914d\u5408\u3002\u9540\u91d1\u5973\u730e\u624b\u4e0e\u5979\u5fe0\u8bda\u7684\u5e93\u5a03\u2014\u2014\u8587\u5a1c\u4e3d\uff0c\u4ee5\u5979\u4eec\u7684\u610f\u5fd7\u7edf\u6cbb\u7740\u6218\u573a\u3002"
+ "wiki_link": null
+ "drop": []}
+ "pt": {"item_name": "Khora Prime: Conjunto"
+ "description": "A rela\u00e7\u00e3o harm\u00f4nica perfeita entre mestra e monstro. A ca\u00e7adora \u00e1urea e sua leal Kavat
+ Venari
+ dominam o campo de batalha com seus anseios."
+ "wiki_link": null
+ "drop": []}
+ "es": {"item_name": "Set de Khora Prime"
+ "description": "Una armon\u00eda entre el maestro y el monstruo. La cazadora dorada y su leal kavat
+ Venari
+ dominan el campo de batalla con su voluntad."
+ "wiki_link": null
+ "drop": []}
+ "pl": {"item_name": "Khora Prime: Zestaw"
+ "description": "Harmonia damy i demona. Oz\u0142ocona \u0142owczyni i jej lojalny Kavat
+ Venari
+ dominuj\u0105 pole bitwy swoj\u0105 wol\u0105."
+ "wiki_link": null
+ "drop": []}}
+ {"quantity_for_set": 1
+ "url_name": "khora_prime_blueprint"
+ "tags": ["prime"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/khora_prime_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "trading_tax": 2000
+ "ducats": 100
+ "thumb": "items/images/en/thumbs/khora_prime_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+ "id": "62d3494075156700ce450df5"
+ "en": {"item_name": "Khora Prime Blueprint"
+ "description": "A harmony of mistress and monster. The gilded huntress and her loyal Kavat
+ Venari
+ dominate the battlefield with their will."
+ "wiki_link": null
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u0440\u0430\u0441\u0430\u0432\u0438\u0446\u0430 \u0438 \u0447\u0443\u0434\u043e\u0432\u0438\u0449\u0435 \u0432 \u043e\u0434\u043d\u043e\u043c \u043b\u0438\u0446\u0435. \u0412\u043c\u0435\u0441\u0442\u0435 \u0441 \u0432\u0435\u0440\u043d\u044b\u043c \u043a\u0430\u0432\u0430\u0442\u043e\u043c \u0412\u0435\u043d\u0430\u0440\u0438 \u044d\u0442\u0430 \u043f\u043e\u0437\u043e\u043b\u043e\u0447\u0435\u043d\u043d\u0430\u044f \u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f."
+ "wiki_link": null
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub77c \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\uc5ec\uc8fc\uc778\uacfc \uadf8 \uad34\uc218\uac00 \uc774\ub904\ub0b4\ub294 \uc870\ud654. \uae08\ubc15\uc744 \ub450\ub978 \uc0ac\ub0e5\uafbc\uacfc \uadf8\ub140\uc758 \ucda9\uc131\uc2a4\ub7ec\uc6b4 \uce74\ubc27
+ \ubca0\ub098\ub9ac\ub294 \uc790\uc2e0\ub4e4\uc758 \uc758\uc9c0\ub85c\uc368 \uc804\uc7a5\uc744 \uc9c0\ubc30\ud569\ub2c8\ub2e4."
+ "wiki_link": null
+ "drop": []}
+ "fr": {"item_name": "Khora Prime (Sch\u00e9ma)"
+ "description": "Ma\u00eetresse et monstre dans un ensemble harmonieux. Cette chasseresse par\u00e9e d'or et son loyal Kavat
+ Venari
+ dominent le champ de bataille de leur volont\u00e9."
+ "wiki_link": null
+ "drop": []}
+ "sv": {"item_name": "Khora Prime Blueprint"
+ "description": "A harmony of mistress and monster. The gilded huntress and her loyal Kavat
+ Venari
+ dominate the battlefield with their will."
+ "wiki_link": null
+ "drop": []}
+ "de": {"item_name": "Khora Prime Blaupause"
+ "description": "Eine Harmonie aus Meisterin und Monster. Die veredelte J\u00e4gerin und ihr loyaler Kavat Venari dominieren das Schlachtfeld mit ihrem Willen."
+ "wiki_link": null
+ "drop": []}
+ "zh-hant": {"item_name": "Khora Prime \u85cd\u5716"
+ "description": "\u5973\u8c6a\u5091\u53ca\u5176\u731b\u7378\u4e4b\u9593\u7684\u6700\u4f73\u9ed8\u5951\u3002\u934d\u91d1\u7684\u5973\u7375\u624b\u548c\u5979\u7684\u5fe0\u8aa0\u5eab\u5a03\u2500\u2500\u8587\u5a1c\u9e97\uff0c\u4ee5\u5979\u5011\u7684\u610f\u5fd7\u7a31\u9738\u6230\u5834\u3002"
+ "wiki_link": null
+ "drop": []}
+ "zh-hans": {"item_name": "Khora Prime \u84dd\u56fe"
+ "description": "\u5973\u80fd\u624b\u548c\u602a\u7269\u7684\u9ed8\u5951\u914d\u5408\u3002\u9540\u91d1\u5973\u730e\u624b\u4e0e\u5979\u5fe0\u8bda\u7684\u5e93\u5a03\u2014\u2014\u8587\u5a1c\u4e3d\uff0c\u4ee5\u5979\u4eec\u7684\u610f\u5fd7\u7edf\u6cbb\u7740\u6218\u573a\u3002"
+ "wiki_link": null
+ "drop": []}
+ "pt": {"item_name": "Khora Prime (Diagrama)"
+ "description": "A rela\u00e7\u00e3o harm\u00f4nica perfeita entre mestra e monstro. A ca\u00e7adora \u00e1urea e sua leal Kavat
+ Venari
+ dominam o campo de batalha com seus anseios."
+ "wiki_link": null
+ "drop": []}
+ "es": {"item_name": "Plano de Khora Prime"
+ "description": "Una armon\u00eda entre el maestro y el monstruo. La cazadora dorada y su leal kavat
+ Venari
+ dominan el campo de batalla con su voluntad."
+ "wiki_link": null
+ "drop": []}
+ "pl": {"item_name": "Khora Prime - Schemat"
+ "description": "Harmonia damy i demona. Oz\u0142ocona \u0142owczyni i jej lojalny Kavat
+ Venari
+ dominuj\u0105 pole bitwy swoj\u0105 wol\u0105."
+ "wiki_link": null
+ "drop": []}}
+ {"quantity_for_set": 1
+ "url_name": "khora_prime_neuroptics_blueprint"
+ "tags": ["prime"
+ "component"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/khora_prime_neuroptics_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png"
+ "trading_tax": 2000
+ "ducats": 100
+ "thumb": "items/images/en/thumbs/khora_prime_neuroptics_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+ "id": "62d3494175156700ce450dff"
+ "en": {"item_name": "Khora Prime Neuroptics Blueprint"
+ "description": "Neuroptics component of the Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u041d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u043d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430."
+ "wiki_link": null
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub77c \ud504\ub77c\uc784 \ub274\ub85c\uc635\ud2f1\uc2a4 \uc124\uacc4\ub3c4"
+ "description": "\ucf54\ub77c \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \ub274\ub85c\uc635\ud2f1\uc2a4 \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": null
+ "drop": []}
+ "fr": {"item_name": "Khora Prime - Neuroptiques (Sch\u00e9ma)"
+ "description": "Le composant Neuroptiques de la Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "sv": {"item_name": "Khora Prime Neuroptics Blueprint"
+ "description": "Neuroptics component of the Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "de": {"item_name": "Khora Prime: Neuroptik Blaupause"
+ "description": "Neuroptik-Komponente f\u00fcr den Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "zh-hant": {"item_name": "Khora Prime \u982d\u90e8\u795e\u7d93\u5149\u5143 \u85cd\u5716"
+ "description": "Khora Prime Warframe \u7684\u982d\u90e8\u795e\u7d93\u5149\u5143\u7d44\u4ef6\u3002"
+ "wiki_link": null
+ "drop": []}
+ "zh-hans": {"item_name": "Khora Prime \u5934\u90e8\u795e\u7ecf\u5149\u5143 \u84dd\u56fe"
+ "description": "Khora Prime \u6218\u7532\u7684\u5934\u90e8\u795e\u7ecf\u5149\u5143\u7ec4\u4ef6\u3002"
+ "wiki_link": null
+ "drop": []}
+ "pt": {"item_name": "Khora Prime: Neurovisor (Diagrama)"
+ "description": "Neurovisor componente do Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "es": {"item_name": "Plano de Neur\u00f3pticas De Khora Prime"
+ "description": "Componente de las neur\u00f3pticas del warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "pl": {"item_name": "Khora Prime: Neurooptyka - Schemat"
+ "description": "Neurooptyka dla Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}}
+ {"quantity_for_set": 1
+ "url_name": "khora_prime_systems_blueprint"
+ "tags": ["prime"
+ "component"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/warframe/prime_systems_128x128.png"
+ "trading_tax": 2000
+ "ducats": 15
+ "thumb": "items/images/en/thumbs/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+ "id": "62d3494175156700ce450e04"
+ "en": {"item_name": "Khora Prime Systems Blueprint"
+ "description": "Systems component of the Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "ru": {"item_name": "\u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u041a\u043e\u0440\u0430 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430."
+ "wiki_link": null
+ "drop": []}
+ "ko": {"item_name": "\ucf54\ub77c \ud504\ub77c\uc784 \uc2dc\uc2a4\ud15c \uc124\uacc4\ub3c4"
+ "description": "\ucf54\ub77c \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc2dc\uc2a4\ud15c \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": null
+ "drop": []}
+ "fr": {"item_name": "Khora Prime - Syst\u00e8mes (Sch\u00e9ma)"
+ "description": "Le composant Syst\u00e8mes de la Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "sv": {"item_name": "Khora Prime Systems Blueprint"
+ "description": "Systems component of the Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "de": {"item_name": "Khora Prime: Systeme Blaupause"
+ "description": "Systeme-Komponente f\u00fcr den Khora Prime Warframe."
+ "wiki_link": null
+ "drop": []}
+ "zh-hant": {"item_name": "Khora Prime \u7cfb\u7d71 \u85cd\u5716"
+ "description": "Khora Prime Warframe \u7684\u7cfb\u7d71\u7d44\u4ef6\u3002"
+ "wiki_link": null
+ "drop": []}
+ "zh-hans": {"item_name": "Khora Prime \u7cfb\u7edf \u84dd\u56fe"
+ "description": "Khora Prime \u6218\u7532\u7684\u7cfb\u7edf\u7ec4\u4ef6\u3002"
+ "wiki_link": null
+ "drop": []}
+ "pt": {"item_name": "Khora Prime: Sistemas (Diagrama)"
+ "description": "Sistemas componentes do Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "es": {"item_name": "Plano de Sistemas De Khora Prime"
+ "description": "Componente de los sistemas del warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}
+ "pl": {"item_name": "Khora Prime: Systemy - Schemat"
+ "description": "Systemy dla Warframe Khora Prime."
+ "wiki_link": null
+ "drop": []}}]}}}

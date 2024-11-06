@@ -1,0 +1,327 @@
+{"payload": {"item": {"id": "5d9385b17ea27b0a28fd75b9"
+ "items_in_set": [{"quantity_for_set": 1
+ "url_name": "atlas_prime_chassis"
+ "tags": ["component"
+ "prime"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/atlas_prime_chassis.91fb26397de19c27bfece550a8315a14.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png"
+ "trading_tax": 2000
+ "ducats": 45
+ "thumb": "items/images/en/thumbs/atlas_prime_chassis.91fb26397de19c27bfece550a8315a14.128x128.png"
+ "id": "5d9385b17ea27b0a28fd75b8"
+ "en": {"item_name": "Atlas Prime Chassis Blueprint"
+ "description": "Chassis component of the Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc100\uc2dc \uc124\uacc4\ub3c4"
+ "description": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc100\uc2dc \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Atlas Prime - Ch\u00e2ssis (Sch\u00e9ma)"
+ "description": "Le composant Ch\u00e2ssis de la Warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Atlas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Atlas Prime Chassis Blueprint"
+ "description": "Chassis component of the Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "de": {"item_name": "Atlas Prime: Chassis Blaupause"
+ "description": "Chassis-Komponente f\u00fcr den Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Atlas Prime \u6a5f\u9ad4 \u85cd\u5716"
+ "description": "Atlas Prime Warframe \u7684\u6a5f\u9ad4\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Atlas Prime \u673a\u4f53 \u84dd\u56fe"
+ "description": "Atlas Prime \u6218\u7532\u7684\u673a\u4f53\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Atlas Prime: Chassi (Diagrama)"
+ "description": "Chassi componente do Warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Atlas/Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Chasis De Atlas Prime"
+ "description": "Componente del chasis del warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Atlas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Atlas Prime: Pow\u0142oka - Schemat"
+ "description": "Pow\u0142oka dla Warframe'a Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Atlas_Prime"
+ "drop": []}}
+ {"url_name": "atlas_prime_set"
+ "tags": ["set"
+ "prime"
+ "warframe"]
+ "set_root": true
+ "icon_format": "port"
+ "icon": "items/images/en/atlas_prime_set.91fb26397de19c27bfece550a8315a14.png"
+ "mastery_level": 0
+ "sub_icon": null
+ "trading_tax": 8000
+ "ducats": 205
+ "thumb": "items/images/en/thumbs/atlas_prime_set.91fb26397de19c27bfece550a8315a14.128x128.png"
+ "id": "5d9385b17ea27b0a28fd75b9"
+ "en": {"item_name": "Atlas Prime Set"
+ "description": "In bygone ages
+ mountains were said to house warriors. In this age
+ the mountain has become the warrior."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u0413\u043e\u0432\u043e\u0440\u044f\u0442
+ \u0447\u0442\u043e \u0432 \u0431\u044b\u043b\u044b\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u0432 \u0433\u043e\u0440\u0430\u0445 \u0436\u0438\u043b\u0438 \u0432\u043e\u0438\u043d\u044b. \u0412 \u043d\u0430\u0448\u0435 \u0432\u0440\u0435\u043c\u044f
+ \u0433\u043e\u0440\u0430 \u0441\u0442\u0430\u043b\u0430 \u0432\u043e\u0438\u043d\u043e\u043c."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\uc61b \uc2dc\ub300\uc5d0
+ \uc0b0\uc740 \uc804\uc0ac\ub4e4\uc744 \ud488\ub294 \uc694\ub78c\uc73c\ub85c \uc77c\uceec\uc5b4\uc9c0\uace4 \ud588\uc2b5\ub2c8\ub2e4. \uc9c0\uae08 \uc774 \uc2dc\ub300\uc5d0\uc11c\ub294
+ \uc0b0 \uadf8 \uc790\uccb4\uac00 \uc804\uc0ac\uac00 \ub429\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Atlas Prime - Set"
+ "description": "Au temps jadis
+ on disait que les montagnes abritaient des guerriers. Aujourd'hui
+ la montagne est devenue le guerrier."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Atlas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Atlas Prime Set"
+ "description": "In bygone ages
+ mountains were said to house warriors. In this age
+ the mountain has become the warrior."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "de": {"item_name": "Atlas Prime: Set"
+ "description": "In l\u00e4ngst vergangenen Tagen hie\u00df es
+ dass Gebirge Krieger beherbergten. In diesen Tagen wurde der Berg zum Krieger."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Atlas Prime \u4e00\u5957"
+ "description": "\u5728\u5f80\u4e8b\u5982\u7159\u7684\u6642\u4ee3\uff0c\u64da\u8aaa\u5c71\u8108\u662f\u6230\u58eb\u7684\u5bb9\u8eab\u4e4b\u6240\u3002\u5728\u9019\u500b\u6642\u4ee3\uff0c\u5c71\u8108\u5df2\u5316\u8eab\u6210\u6230\u58eb\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Atlas Prime \u4e00\u5957"
+ "description": "\u5728\u5f80\u4e8b\u5982\u70df\u7684\u65f6\u4ee3\uff0c\u636e\u8bf4\u5c71\u8109\u662f\u6218\u58eb\u7684\u5bb9\u8eab\u4e4b\u6240\u3002\u5728\u8fd9\u4e2a\u65f6\u4ee3\uff0c\u5c71\u8109\u5df2\u5316\u8eab\u6210\u6218\u58eb\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Atlas Prime: Conjunto"
+ "description": "Em \u00e9pocas passadas
+ as montanhas abrigavam guerreiros. J\u00e1 nesta era
+ a pr\u00f3pria montanha se tornou o guerreiro."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Atlas/Prime"
+ "drop": []}
+ "es": {"item_name": "Set de Atlas Prime"
+ "description": "En tiempos antiguos
+ se dec\u00eda que las monta\u00f1as albergaban guerreros. En esta era
+ la monta\u00f1a se ha convertido en el guerrero."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Atlas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Atlas Prime: Zestaw"
+ "description": "W ubieg\u0142ych wiekach
+ m\u00f3wiono o wzg\u00f3rzach kryj\u0105cych wojownik\u00f3w. W tym wieku
+ wzg\u00f3rze przekszta\u0142ci\u0142o si\u0119 w wojownika."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Atlas_Prime"
+ "drop": []}}
+ {"quantity_for_set": 1
+ "url_name": "atlas_prime_systems"
+ "tags": ["component"
+ "prime"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/atlas_prime_systems.91fb26397de19c27bfece550a8315a14.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/warframe/prime_systems_128x128.png"
+ "trading_tax": 2000
+ "ducats": 45
+ "thumb": "items/images/en/thumbs/atlas_prime_systems.91fb26397de19c27bfece550a8315a14.128x128.png"
+ "id": "5d9385b17ea27b0a28fd75ba"
+ "en": {"item_name": "Atlas Prime Systems Blueprint"
+ "description": "Systems component of the Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc2dc\uc2a4\ud15c \uc124\uacc4\ub3c4"
+ "description": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc2dc\uc2a4\ud15c \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Atlas Prime - Syst\u00e8mes (Sch\u00e9ma)"
+ "description": "Le composant Syst\u00e8mes de la Warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Atlas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Atlas Prime Systems Blueprint"
+ "description": "Systems component of the Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "de": {"item_name": "Atlas Prime: Systeme Blaupause"
+ "description": "Systeme-Komponente f\u00fcr den Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Atlas Prime \u7cfb\u7d71 \u85cd\u5716"
+ "description": "Atlas Prime Warframe \u7684\u7cfb\u7d71\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Atlas Prime \u7cfb\u7edf \u84dd\u56fe"
+ "description": "Atlas Prime \u6218\u7532\u7684\u7cfb\u7edf\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Atlas Prime: Sistemas (Diagrama)"
+ "description": "Sistemas componentes do Warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Atlas/Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Sistemas De Atlas Prime"
+ "description": "Componente de los sistemas del warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Atlas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Atlas Prime: Systemy - Schemat"
+ "description": "Systemy dla Warframe'a Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Atlas_Prime"
+ "drop": []}}
+ {"quantity_for_set": 1
+ "url_name": "atlas_prime_neuroptics"
+ "tags": ["component"
+ "prime"
+ "warframe"
+ "blueprint"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/atlas_prime_neuroptics.91fb26397de19c27bfece550a8315a14.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png"
+ "trading_tax": 2000
+ "ducats": 100
+ "thumb": "items/images/en/thumbs/atlas_prime_neuroptics.91fb26397de19c27bfece550a8315a14.128x128.png"
+ "id": "5d9385b27ea27b0a28fd75bb"
+ "en": {"item_name": "Atlas Prime Neuroptics Blueprint"
+ "description": "Neuroptics component of the Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u041d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c: \u043d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \ub274\ub85c\uc635\ud2f1\uc2a4 \uc124\uacc4\ub3c4"
+ "description": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \ub274\ub85c\uc635\ud2f1\uc2a4 \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Atlas Prime - Neuroptiques (Sch\u00e9ma)"
+ "description": "Le composant Neuroptiques de la Warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Atlas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Atlas Prime Neuroptics Blueprint"
+ "description": "Neuroptics component of the Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "de": {"item_name": "Atlas Prime: Neuroptik Blaupause"
+ "description": "Neuroptik-Komponente f\u00fcr den Atlas Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Atlas Prime \u982d\u90e8\u795e\u7d93\u5149\u5143 \u85cd\u5716"
+ "description": "Atlas Prime Warframe \u7684\u982d\u90e8\u795e\u7d93\u5149\u5143\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Atlas Prime \u5934\u90e8\u795e\u7ecf\u5149\u5143 \u84dd\u56fe"
+ "description": "Atlas Prime \u6218\u7532\u7684\u5934\u90e8\u795e\u7ecf\u5149\u5143\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Atlas Prime: Neurovisor (Diagrama)"
+ "description": "Neurovisor componente do Warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Atlas/Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Neur\u00f3pticas De Atlas Prime"
+ "description": "Componente de las neur\u00f3pticas del warframe Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Atlas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Atlas Prime: Neurooptyka - Schemat"
+ "description": "Neurooptyka dla Warframe'a Atlas Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Atlas_Prime"
+ "drop": []}}
+ {"quantity_for_set": 1
+ "url_name": "atlas_prime_blueprint"
+ "tags": ["blueprint"
+ "prime"
+ "warframe"]
+ "set_root": false
+ "icon_format": "port"
+ "icon": "items/images/en/atlas_prime_blueprint.91fb26397de19c27bfece550a8315a14.png"
+ "mastery_level": 0
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "trading_tax": 2000
+ "ducats": 15
+ "thumb": "items/images/en/thumbs/atlas_prime_blueprint.91fb26397de19c27bfece550a8315a14.128x128.png"
+ "id": "5d9385b27ea27b0a28fd75bc"
+ "en": {"item_name": "Atlas Prime Blueprint"
+ "description": "In bygone ages
+ mountains were said to house warriors. In this age
+ the mountain has become the warrior."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0410\u0442\u043b\u0430\u0441 \u041f\u0440\u0430\u0439\u043c (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u0413\u043e\u0432\u043e\u0440\u044f\u0442
+ \u0447\u0442\u043e \u0432 \u0431\u044b\u043b\u044b\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u0432 \u0433\u043e\u0440\u0430\u0445 \u0436\u0438\u043b\u0438 \u0432\u043e\u0438\u043d\u044b. \u0412 \u043d\u0430\u0448\u0435 \u0432\u0440\u0435\u043c\u044f
+ \u0433\u043e\u0440\u0430 \u0441\u0442\u0430\u043b\u0430 \u0432\u043e\u0438\u043d\u043e\u043c."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\uc544\ud2c0\ub77c\uc2a4 \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\uc61b \uc2dc\ub300\uc5d0
+ \uc0b0\uc740 \uc804\uc0ac\ub4e4\uc744 \ud488\ub294 \uc694\ub78c\uc73c\ub85c \uc77c\uceec\uc5b4\uc9c0\uace4 \ud588\uc2b5\ub2c8\ub2e4. \uc9c0\uae08 \uc774 \uc2dc\ub300\uc5d0\uc11c\ub294
+ \uc0b0 \uadf8 \uc790\uccb4\uac00 \uc804\uc0ac\uac00 \ub429\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "fr": {"item_name": "Atlas Prime (Sch\u00e9ma)"
+ "description": "Au temps jadis
+ on disait que les montagnes abritaient des guerriers. Aujourd'hui
+ la montagne est devenue le guerrier."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Atlas_Prime"
+ "drop": []}
+ "sv": {"item_name": "Atlas Prime Blueprint"
+ "description": "In bygone ages
+ mountains were said to house warriors. In this age
+ the mountain has become the warrior."
+ "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime"
+ "drop": []}
+ "de": {"item_name": "Atlas Prime Blaupause"
+ "description": "In l\u00e4ngst vergangenen Tagen hie\u00df es
+ dass Gebirge Krieger beherbergten. In diesen Tagen wurde der Berg zum Krieger."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Atlas Prime \u85cd\u5716"
+ "description": "\u5728\u5f80\u4e8b\u5982\u7159\u7684\u6642\u4ee3\uff0c\u64da\u8aaa\u5c71\u8108\u662f\u6230\u58eb\u7684\u5bb9\u8eab\u4e4b\u6240\u3002\u5728\u9019\u500b\u6642\u4ee3\uff0c\u5c71\u8108\u5df2\u5316\u8eab\u6210\u6230\u58eb\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Atlas Prime \u84dd\u56fe"
+ "description": "\u5728\u5f80\u4e8b\u5982\u70df\u7684\u65f6\u4ee3\uff0c\u636e\u8bf4\u5c71\u8109\u662f\u6218\u58eb\u7684\u5bb9\u8eab\u4e4b\u6240\u3002\u5728\u8fd9\u4e2a\u65f6\u4ee3\uff0c\u5c71\u8109\u5df2\u5316\u8eab\u6210\u6218\u58eb\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime"
+ "drop": []}
+ "pt": {"item_name": "Atlas Prime (Diagrama)"
+ "description": "Em \u00e9pocas passadas
+ as montanhas abrigavam guerreiros. J\u00e1 nesta era
+ a pr\u00f3pria montanha se tornou o guerreiro."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Atlas/Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Atlas Prime"
+ "description": "En tiempos antiguos
+ se dec\u00eda que las monta\u00f1as albergaban guerreros. En esta era
+ la monta\u00f1a se ha convertido en el guerrero."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Atlas_Prime"
+ "drop": []}
+ "pl": {"item_name": "Atlas Prime - Schemat"
+ "description": "W ubieg\u0142ych wiekach
+ m\u00f3wiono o wzg\u00f3rzach kryj\u0105cych wojownik\u00f3w. W tym wieku
+ wzg\u00f3rze przekszta\u0142ci\u0142o si\u0119 w wojownika."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Atlas_Prime"
+ "drop": []}}]}}}

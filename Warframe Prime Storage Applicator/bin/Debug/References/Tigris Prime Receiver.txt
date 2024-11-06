@@ -1,0 +1,767 @@
+{"payload": {"item": {"id": "57bc9c84e506eb45ea251458"
+ "items_in_set": [{"set_root": true
+ "thumb": "icons/en/thumbs/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+ "trading_tax": 8000
+ "id": "57bc9c84e506eb45ea251455"
+ "tags": ["weapon"
+ "shotgun"
+ "prime"
+ "set"
+ "primary"]
+ "icon": "icons/en/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.png"
+ "mastery_level": 13
+ "url_name": "tigris_prime_set"
+ "ducats": 205
+ "icon_format": "land"
+ "sub_icon": null
+ "en": {"item_name": "Tigris Prime Set"
+ "description": "An artifact of exquisite beauty. A weapon of deadly purpose."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0422\u0438\u0433\u0440\u0438\u0441 \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u0410\u0440\u0442\u0435\u0444\u0430\u043a\u0442 \u043d\u0435\u043e\u0431\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u043a\u0440\u0430\u0441\u043e\u0442\u044b. \u041e\u0440\u0443\u0436\u0438\u0435
+ \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u043e\u0435 \u0434\u043b\u044f \u0443\u0431\u0438\u0439\u0441\u0442\u0432."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud2f0\uadf8\ub9ac\uc2a4 \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\uc815\uad50\ud55c \uc544\ub984\ub2e4\uc6c0\uc744 \uac16\ucd98 \uc720\ubb3c\uc784\uacfc \ub3d9\uc2dc\uc5d0 \uce58\uba85\uc801\uc778 \uc0ac\uc6a9\ubc95\uc744 \uc9c0\ub2cc \ubb34\uae30\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": []}
+ "fr": {"item_name": "Tigris Prime - Set"
+ "description": "Un artefact d'une exquise beaut\u00e9. Une arme au dessein meurtrier."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Tigris_Prime"
+ "drop": []}
+ "sv": {"item_name": "Tigris Prime Set"
+ "description": "An artifact of exquisite beauty. A weapon of deadly purpose."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": []}
+ "de": {"item_name": "Tigris Prime: Set"
+ "description": "Ein Artefakt von erlesener Sch\u00f6nheit. Eine Waffe mit t\u00f6dlicher Bestimmung."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Tigris_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "\u731b\u864e Prime \u4e00\u5957"
+ "description": "\uff08\u82f1\u6587\uff1aTIGRIS PRIME\uff09\u65e2\u662f\u7cbe\u7f8e\u7684\u5de5\u85dd\u54c1\uff0c\u4e5f\u662f\u81f4\u547d\u7684\u6b66\u5668\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "\u731b\u864e Prime \u4e00\u5957"
+ "description": "\uff08\u82f1\u6587\uff1aTIGRIS PRIME\uff09\u65e2\u662f\u7cbe\u7f8e\u7684\u5de5\u827a\u54c1\uff0c\u4e5f\u662f\u81f4\u547d\u7684\u6b66\u5668\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": []}
+ "pt": {"item_name": "Tigris Prime: Conjunto"
+ "description": "Um artefato de beleza singular. Uma arma com prop\u00f3sito letal."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tigris_Prime"
+ "drop": []}
+ "es": {"item_name": "Set de Tigris Prime"
+ "description": "Un artefacto de belleza exquisita. Un arma de prop\u00f3sitos letales."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Tigris_Prime"
+ "drop": []}
+ "pl": {"item_name": "Tigris Prime: Zestaw"
+ "description": "Artefakt niezwyk\u0142ego pi\u0119kna. Bro\u0144 o \u015bmiertelnym przeznaczeniu."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Tigris_Prime"
+ "drop": []}}
+ {"set_root": false
+ "thumb": "icons/en/thumbs/tigris_prime_stock.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+ "trading_tax": 2000
+ "id": "57bc9c84e506eb45ea251456"
+ "tags": ["weapon"
+ "shotgun"
+ "prime"
+ "stock"
+ "primary"
+ "component"]
+ "icon": "icons/en/tigris_prime_stock.5f82721ea78697c95208b9bceb72c4a4.png"
+ "mastery_level": 13
+ "url_name": "tigris_prime_stock"
+ "ducats": 15
+ "icon_format": "land"
+ "sub_icon": "sub_icons/weapon/prime_stock_128x128.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Tigris Prime Stock"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Neo B2 Relic (Common)"
+ "link": "neo_b2_relic"}
+ {"name": "Neo N11 Relic (Common)"
+ "link": "neo_n11_relic"}
+ {"name": "Neo V4 Relic (Common)"
+ "link": "neo_v4_relic"}
+ {"name": "Meso S1 Relic (Common)"
+ "link": "meso_s1_relic"}
+ {"name": "Lith B2 Relic (Common)"
+ "link": "lith_b2_relic"}]}
+ "ru": {"item_name": "\u0422\u0438\u0433\u0440\u0438\u0441 \u041f\u0440\u0430\u0439\u043c: \u041f\u0440\u0438\u043a\u043b\u0430\u0434"
+ "description": "\u041f\u0440\u0430\u0439\u043c-\u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e B2 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_b2_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e N11 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_n11_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e V4 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_v4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e S1 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_s1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 B2 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_b2_relic"}]}
+ "ko": {"item_name": "\ud2f0\uadf8\ub9ac\uc2a4 \ud504\ub77c\uc784 \uc2a4\ud1a1"
+ "description": "\ud504\ub77c\uc784 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\ub124\uc624 B2 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_b2_relic"}
+ {"name": "\ub124\uc624 N11 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_n11_relic"}
+ {"name": "\ub124\uc624 V4 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_v4_relic"}
+ {"name": "\uba54\uc18c S1 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "meso_s1_relic"}
+ {"name": "\ub9ac\uc2a4 B2 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "lith_b2_relic"}]}
+ "fr": {"item_name": "Tigris Prime - Crosse"
+ "description": "Un composant servant \u00e0 la fabrication d'armes Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Tigris_Prime"
+ "drop": [{"name": "Relique Neo B2 (Commun)"
+ "link": "neo_b2_relic"}
+ {"name": "Relique Neo N11 (Commun)"
+ "link": "neo_n11_relic"}
+ {"name": "Relique Neo V4 (Commun)"
+ "link": "neo_v4_relic"}
+ {"name": "Relique Meso S1 (Commun)"
+ "link": "meso_s1_relic"}
+ {"name": "Relique Lith B2 (Commun)"
+ "link": "lith_b2_relic"}]}
+ "sv": {"item_name": "Tigris Prime Stock"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Neo B2 Relic (Common)"
+ "link": "neo_b2_relic"}
+ {"name": "Neo N11 Relic (Common)"
+ "link": "neo_n11_relic"}
+ {"name": "Neo V4 Relic (Common)"
+ "link": "neo_v4_relic"}
+ {"name": "Meso S1 Relic (Common)"
+ "link": "meso_s1_relic"}
+ {"name": "Lith B2 Relic (Common)"
+ "link": "lith_b2_relic"}]}
+ "de": {"item_name": "Tigris Prime: Schaft"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Tigris_Prime"
+ "drop": [{"name": "Neo-relikt: B2 (Gew\u00f6hnlich)"
+ "link": "neo_b2_relic"}
+ {"name": "Neo-relikt: N11 (Gew\u00f6hnlich)"
+ "link": "neo_n11_relic"}
+ {"name": "Neo-relikt: V4 (Gew\u00f6hnlich)"
+ "link": "neo_v4_relic"}
+ {"name": "Meso-relikt: S1 (Gew\u00f6hnlich)"
+ "link": "meso_s1_relic"}
+ {"name": "Lith-relikt: B2 (Gew\u00f6hnlich)"
+ "link": "lith_b2_relic"}]}
+ "zh-hant": {"item_name": "\u731b\u864e Prime \u69cd\u6258"
+ "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u4e2d\u7d00 B2 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_b2_relic"}
+ {"name": "\u4e2d\u7d00 N11 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_n11_relic"}
+ {"name": "\u4e2d\u7d00 V4 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_v4_relic"}
+ {"name": "\u524d\u7d00 S1 \u907a\u7269 (\u5e38\u898b)"
+ "link": "meso_s1_relic"}
+ {"name": "\u53e4\u7d00 B2 \u907a\u7269 (\u5e38\u898b)"
+ "link": "lith_b2_relic"}]}
+ "zh-hans": {"item_name": "\u731b\u864e Prime \u67aa\u6258"
+ "description": "\u4e00\u4e2a Prime \u6b66\u5668\u7684\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u4e2d\u7eaa B2 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_b2_relic"}
+ {"name": "\u4e2d\u7eaa N11 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_n11_relic"}
+ {"name": "\u4e2d\u7eaa V4 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_v4_relic"}
+ {"name": "\u524d\u7eaa S1 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "meso_s1_relic"}
+ {"name": "\u53e4\u7eaa B2 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "lith_b2_relic"}]}
+ "pt": {"item_name": "Tigris Prime: Coronha"
+ "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tigris_Prime"
+ "drop": [{"name": "Rel\u00edquia Neo B2 (Comum)"
+ "link": "neo_b2_relic"}
+ {"name": "Rel\u00edquia Neo N11 (Comum)"
+ "link": "neo_n11_relic"}
+ {"name": "Rel\u00edquia Neo V4 (Comum)"
+ "link": "neo_v4_relic"}
+ {"name": "Rel\u00edquia Meso S1 (Comum)"
+ "link": "meso_s1_relic"}
+ {"name": "Rel\u00edquia Lith B2 (Comum)"
+ "link": "lith_b2_relic"}]}
+ "es": {"item_name": "Culata De Tigris Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Tigris_Prime"
+ "drop": [{"name": "Reliquia Neo B2 (Com\u00fan)"
+ "link": "neo_b2_relic"}
+ {"name": "Reliquia Neo N11 (Com\u00fan)"
+ "link": "neo_n11_relic"}
+ {"name": "Reliquia Neo V4 (Com\u00fan)"
+ "link": "neo_v4_relic"}
+ {"name": "Reliquia Meso S1 (Com\u00fan)"
+ "link": "meso_s1_relic"}
+ {"name": "Reliquia Lith B2 (Com\u00fan)"
+ "link": "lith_b2_relic"}]}
+ "pl": {"item_name": "Tigris Prime: Kolba"
+ "description": "Element wytwarzania broni Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Tigris_Prime"
+ "drop": [{"name": "Relikt Neo B2 (Powszechny)"
+ "link": "neo_b2_relic"}
+ {"name": "Relikt Neo N11 (Powszechny)"
+ "link": "neo_n11_relic"}
+ {"name": "Relikt Neo V4 (Powszechny)"
+ "link": "neo_v4_relic"}
+ {"name": "Relikt Meso S1 (Powszechny)"
+ "link": "meso_s1_relic"}
+ {"name": "Relikt Lith B2 (Powszechny)"
+ "link": "lith_b2_relic"}]}}
+ {"set_root": false
+ "thumb": "icons/en/thumbs/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+ "trading_tax": 2000
+ "id": "57bc9c84e506eb45ea251457"
+ "tags": ["weapon"
+ "shotgun"
+ "prime"
+ "primary"
+ "component"
+ "barrel"]
+ "icon": "icons/en/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.png"
+ "mastery_level": 13
+ "url_name": "tigris_prime_barrel"
+ "ducats": 45
+ "icon_format": "land"
+ "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Tigris Prime Barrel"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi S6 Relic (Uncommon)"
+ "link": "axi_s6_relic"}
+ {"name": "Neo B4 Relic (Uncommon)"
+ "link": "neo_b4_relic"}
+ {"name": "Neo H1 Relic (Uncommon)"
+ "link": "neo_h1_relic"}
+ {"name": "Lith V4 Relic (Uncommon)"
+ "link": "lith_v4_relic"}
+ {"name": "Lith V3 Relic (Uncommon)"
+ "link": "lith_v3_relic"}
+ {"name": "Lith K1 Relic (Uncommon)"
+ "link": "lith_k1_relic"}]}
+ "ru": {"item_name": "\u0422\u0438\u0433\u0440\u0438\u0441 \u041f\u0440\u0430\u0439\u043c: \u0421\u0442\u0432\u043e\u043b"
+ "description": "\u041f\u0440\u0430\u0439\u043c-\u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 S6 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_s6_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e B4 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_b4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e H1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_h1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 V4 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_v4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 V3 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_v3_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 K1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_k1_relic"}]}
+ "ko": {"item_name": "\ud2f0\uadf8\ub9ac\uc2a4 \ud504\ub77c\uc784 \ubc30\ub7f4"
+ "description": "\ud504\ub77c\uc784 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\uc561\uc2dc S6 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "axi_s6_relic"}
+ {"name": "\ub124\uc624 B4 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_b4_relic"}
+ {"name": "\ub124\uc624 H1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_h1_relic"}
+ {"name": "\ub9ac\uc2a4 V4 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_v4_relic"}
+ {"name": "\ub9ac\uc2a4 V3 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_v3_relic"}
+ {"name": "\ub9ac\uc2a4 K1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_k1_relic"}]}
+ "fr": {"item_name": "Tigris Prime - Canon"
+ "description": "Un composant servant \u00e0 la fabrication d'armes Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Tigris_Prime"
+ "drop": [{"name": "Relique Axi S6 (Inhabituel)"
+ "link": "axi_s6_relic"}
+ {"name": "Relique Neo B4 (Inhabituel)"
+ "link": "neo_b4_relic"}
+ {"name": "Relique Neo H1 (Inhabituel)"
+ "link": "neo_h1_relic"}
+ {"name": "Relique Lith V4 (Inhabituel)"
+ "link": "lith_v4_relic"}
+ {"name": "Relique Lith V3 (Inhabituel)"
+ "link": "lith_v3_relic"}
+ {"name": "Relique Lith K1 (Inhabituel)"
+ "link": "lith_k1_relic"}]}
+ "sv": {"item_name": "Tigris Prime Barrel"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi S6 Relic (Uncommon)"
+ "link": "axi_s6_relic"}
+ {"name": "Neo B4 Relic (Uncommon)"
+ "link": "neo_b4_relic"}
+ {"name": "Neo H1 Relic (Uncommon)"
+ "link": "neo_h1_relic"}
+ {"name": "Lith V4 Relic (Uncommon)"
+ "link": "lith_v4_relic"}
+ {"name": "Lith V3 Relic (Uncommon)"
+ "link": "lith_v3_relic"}
+ {"name": "Lith K1 Relic (Uncommon)"
+ "link": "lith_k1_relic"}]}
+ "de": {"item_name": "Tigris Prime: Lauf"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi-relikt: S6 (Ungew\u00f6hnlich)"
+ "link": "axi_s6_relic"}
+ {"name": "Neo-relikt: B4 (Ungew\u00f6hnlich)"
+ "link": "neo_b4_relic"}
+ {"name": "Neo-relikt: H1 (Ungew\u00f6hnlich)"
+ "link": "neo_h1_relic"}
+ {"name": "Lith-relikt: V4 (Ungew\u00f6hnlich)"
+ "link": "lith_v4_relic"}
+ {"name": "Lith-relikt: V3 (Ungew\u00f6hnlich)"
+ "link": "lith_v3_relic"}
+ {"name": "Lith-relikt: K1 (Ungew\u00f6hnlich)"
+ "link": "lith_k1_relic"}]}
+ "zh-hant": {"item_name": "\u731b\u864e Prime \u69cd\u7ba1"
+ "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 S6 \u907a\u7269 (\u7f55\u898b)"
+ "link": "axi_s6_relic"}
+ {"name": "\u4e2d\u7d00 B4 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_b4_relic"}
+ {"name": "\u4e2d\u7d00 H1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_h1_relic"}
+ {"name": "\u53e4\u7d00 V4 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_v4_relic"}
+ {"name": "\u53e4\u7d00 V3 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_v3_relic"}
+ {"name": "\u53e4\u7d00 K1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_k1_relic"}]}
+ "zh-hans": {"item_name": "\u731b\u864e Prime \u67aa\u7ba1"
+ "description": "\u4e00\u4e2a Prime \u6b66\u5668\u7684\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u540e\u7eaa S6 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "axi_s6_relic"}
+ {"name": "\u4e2d\u7eaa B4 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_b4_relic"}
+ {"name": "\u4e2d\u7eaa H1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_h1_relic"}
+ {"name": "\u53e4\u7eaa V4 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_v4_relic"}
+ {"name": "\u53e4\u7eaa V3 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_v3_relic"}
+ {"name": "\u53e4\u7eaa K1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_k1_relic"}]}
+ "pt": {"item_name": "Tigris Prime: Cano"
+ "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tigris_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi S6 (Incomum)"
+ "link": "axi_s6_relic"}
+ {"name": "Rel\u00edquia Neo B4 (Incomum)"
+ "link": "neo_b4_relic"}
+ {"name": "Rel\u00edquia Neo H1 (Incomum)"
+ "link": "neo_h1_relic"}
+ {"name": "Rel\u00edquia Lith V4 (Incomum)"
+ "link": "lith_v4_relic"}
+ {"name": "Rel\u00edquia Lith V3 (Incomum)"
+ "link": "lith_v3_relic"}
+ {"name": "Rel\u00edquia Lith K1 (Incomum)"
+ "link": "lith_k1_relic"}]}
+ "es": {"item_name": "Ca\u00f1\u00f3n De Tigris Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Tigris_Prime"
+ "drop": [{"name": "Reliquia Axi S6 (Poco Com\u00fan)"
+ "link": "axi_s6_relic"}
+ {"name": "Reliquia Neo B4 (Poco Com\u00fan)"
+ "link": "neo_b4_relic"}
+ {"name": "Reliquia Neo H1 (Poco Com\u00fan)"
+ "link": "neo_h1_relic"}
+ {"name": "Reliquia Lith V4 (Poco Com\u00fan)"
+ "link": "lith_v4_relic"}
+ {"name": "Reliquia Lith V3 (Poco Com\u00fan)"
+ "link": "lith_v3_relic"}
+ {"name": "Reliquia Lith K1 (Poco Com\u00fan)"
+ "link": "lith_k1_relic"}]}
+ "pl": {"item_name": "Tigris Prime: Lufa"
+ "description": "Element wytwarzania broni Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Tigris_Prime"
+ "drop": [{"name": "Relikt Axi S6 (Nieprzeci\u0119tny)"
+ "link": "axi_s6_relic"}
+ {"name": "Relikt Neo B4 (Nieprzeci\u0119tny)"
+ "link": "neo_b4_relic"}
+ {"name": "Relikt Neo H1 (Nieprzeci\u0119tny)"
+ "link": "neo_h1_relic"}
+ {"name": "Relikt Lith V4 (Nieprzeci\u0119tny)"
+ "link": "lith_v4_relic"}
+ {"name": "Relikt Lith V3 (Nieprzeci\u0119tny)"
+ "link": "lith_v3_relic"}
+ {"name": "Relikt Lith K1 (Nieprzeci\u0119tny)"
+ "link": "lith_k1_relic"}]}}
+ {"set_root": false
+ "thumb": "icons/en/thumbs/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+ "trading_tax": 2000
+ "id": "57bc9c84e506eb45ea251458"
+ "tags": ["weapon"
+ "shotgun"
+ "prime"
+ "receiver"
+ "component"
+ "primary"]
+ "icon": "icons/en/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.png"
+ "mastery_level": 13
+ "url_name": "tigris_prime_receiver"
+ "ducats": 45
+ "icon_format": "land"
+ "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Tigris Prime Receiver"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi V5 Relic (Uncommon)"
+ "link": "axi_v5_relic"}
+ {"name": "Neo S6 Relic (Uncommon)"
+ "link": "neo_s6_relic"}
+ {"name": "Neo V3 Relic (Uncommon)"
+ "link": "neo_v3_relic"}
+ {"name": "Meso T2 Relic (Uncommon)"
+ "link": "meso_t2_relic"}
+ {"name": "Meso S6 Relic (Uncommon)"
+ "link": "meso_s6_relic"}
+ {"name": "Meso K1 Relic (Uncommon)"
+ "link": "meso_k1_relic"}
+ {"name": "Meso N5 Relic (Uncommon)"
+ "link": "meso_n5_relic"}
+ {"name": "Lith S9 Relic (Uncommon)"
+ "link": "lith_s9_relic"}]}
+ "ru": {"item_name": "\u0422\u0438\u0433\u0440\u0438\u0441 \u041f\u0440\u0430\u0439\u043c: \u041f\u0440\u0438\u0451\u043c\u043d\u0438\u043a"
+ "description": "\u041f\u0440\u0430\u0439\u043c-\u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u043e\u0440\u0443\u0436\u0438\u044f."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 V5 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_v5_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e S6 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_s6_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e V3 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_v3_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e T2 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_t2_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e S6 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_s6_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e K1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_k1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e N5 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_n5_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 S9 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_s9_relic"}]}
+ "ko": {"item_name": "\ud2f0\uadf8\ub9ac\uc2a4 \ud504\ub77c\uc784 \ub9ac\uc2dc\ubc84"
+ "description": "\ud504\ub77c\uc784 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\uc561\uc2dc V5 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "axi_v5_relic"}
+ {"name": "\ub124\uc624 S6 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_s6_relic"}
+ {"name": "\ub124\uc624 V3 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_v3_relic"}
+ {"name": "\uba54\uc18c T2 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "meso_t2_relic"}
+ {"name": "\uba54\uc18c S6 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "meso_s6_relic"}
+ {"name": "\uba54\uc18c K1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "meso_k1_relic"}
+ {"name": "\uba54\uc18c N5 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "meso_n5_relic"}
+ {"name": "\ub9ac\uc2a4 S9 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_s9_relic"}]}
+ "fr": {"item_name": "Tigris Prime - Culasse"
+ "description": "Un composant servant \u00e0 la fabrication d'armes Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Tigris_Prime"
+ "drop": [{"name": "Relique Axi V5 (Inhabituel)"
+ "link": "axi_v5_relic"}
+ {"name": "Relique Neo S6 (Inhabituel)"
+ "link": "neo_s6_relic"}
+ {"name": "Relique Neo V3 (Inhabituel)"
+ "link": "neo_v3_relic"}
+ {"name": "Relique Meso T2 (Inhabituel)"
+ "link": "meso_t2_relic"}
+ {"name": "Relique Meso S6 (Inhabituel)"
+ "link": "meso_s6_relic"}
+ {"name": "Relique Meso K1 (Inhabituel)"
+ "link": "meso_k1_relic"}
+ {"name": "Relique Meso N5 (Inhabituel)"
+ "link": "meso_n5_relic"}
+ {"name": "Relique Lith S9 (Inhabituel)"
+ "link": "lith_s9_relic"}]}
+ "sv": {"item_name": "Tigris Prime Receiver"
+ "description": "A prime weapon-crafting component."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi V5 Relic (Uncommon)"
+ "link": "axi_v5_relic"}
+ {"name": "Neo S6 Relic (Uncommon)"
+ "link": "neo_s6_relic"}
+ {"name": "Neo V3 Relic (Uncommon)"
+ "link": "neo_v3_relic"}
+ {"name": "Meso T2 Relic (Uncommon)"
+ "link": "meso_t2_relic"}
+ {"name": "Meso S6 Relic (Uncommon)"
+ "link": "meso_s6_relic"}
+ {"name": "Meso K1 Relic (Uncommon)"
+ "link": "meso_k1_relic"}
+ {"name": "Meso N5 Relic (Uncommon)"
+ "link": "meso_n5_relic"}
+ {"name": "Lith S9 Relic (Uncommon)"
+ "link": "lith_s9_relic"}]}
+ "de": {"item_name": "Tigris Prime: Geh\u00e4use"
+ "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi-relikt: V5 (Ungew\u00f6hnlich)"
+ "link": "axi_v5_relic"}
+ {"name": "Neo-relikt: S6 (Ungew\u00f6hnlich)"
+ "link": "neo_s6_relic"}
+ {"name": "Neo-relikt: V3 (Ungew\u00f6hnlich)"
+ "link": "neo_v3_relic"}
+ {"name": "Meso-relikt: T2 (Ungew\u00f6hnlich)"
+ "link": "meso_t2_relic"}
+ {"name": "Meso-relikt: S6 (Ungew\u00f6hnlich)"
+ "link": "meso_s6_relic"}
+ {"name": "Meso-relikt: K1 (Ungew\u00f6hnlich)"
+ "link": "meso_k1_relic"}
+ {"name": "Meso-relikt: N5 (Ungew\u00f6hnlich)"
+ "link": "meso_n5_relic"}
+ {"name": "Lith-relikt: S9 (Ungew\u00f6hnlich)"
+ "link": "lith_s9_relic"}]}
+ "zh-hant": {"item_name": "\u731b\u864e Prime \u69cd\u6a5f"
+ "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 V5 \u907a\u7269 (\u7f55\u898b)"
+ "link": "axi_v5_relic"}
+ {"name": "\u4e2d\u7d00 S6 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_s6_relic"}
+ {"name": "\u4e2d\u7d00 V3 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_v3_relic"}
+ {"name": "\u524d\u7d00 T2 \u907a\u7269 (\u7f55\u898b)"
+ "link": "meso_t2_relic"}
+ {"name": "\u524d\u7d00 S6 \u907a\u7269 (\u7f55\u898b)"
+ "link": "meso_s6_relic"}
+ {"name": "\u524d\u7d00 K1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "meso_k1_relic"}
+ {"name": "\u524d\u7d00 N5 \u907a\u7269 (\u7f55\u898b)"
+ "link": "meso_n5_relic"}
+ {"name": "\u53e4\u7d00 S9 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_s9_relic"}]}
+ "zh-hans": {"item_name": "\u731b\u864e Prime \u67aa\u673a"
+ "description": "\u4e00\u4e2a Prime \u6b66\u5668\u7684\u5236\u4f5c\u90e8\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u540e\u7eaa V5 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "axi_v5_relic"}
+ {"name": "\u4e2d\u7eaa S6 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_s6_relic"}
+ {"name": "\u4e2d\u7eaa V3 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_v3_relic"}
+ {"name": "\u524d\u7eaa T2 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "meso_t2_relic"}
+ {"name": "\u524d\u7eaa S6 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "meso_s6_relic"}
+ {"name": "\u524d\u7eaa K1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "meso_k1_relic"}
+ {"name": "\u524d\u7eaa N5 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "meso_n5_relic"}
+ {"name": "\u53e4\u7eaa S9 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_s9_relic"}]}
+ "pt": {"item_name": "Tigris Prime: Receptor"
+ "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tigris_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi V5 (Incomum)"
+ "link": "axi_v5_relic"}
+ {"name": "Rel\u00edquia Neo S6 (Incomum)"
+ "link": "neo_s6_relic"}
+ {"name": "Rel\u00edquia Neo V3 (Incomum)"
+ "link": "neo_v3_relic"}
+ {"name": "Rel\u00edquia Meso T2 (Incomum)"
+ "link": "meso_t2_relic"}
+ {"name": "Rel\u00edquia Meso S6 (Incomum)"
+ "link": "meso_s6_relic"}
+ {"name": "Rel\u00edquia Meso K1 (Incomum)"
+ "link": "meso_k1_relic"}
+ {"name": "Rel\u00edquia Meso N5 (Incomum)"
+ "link": "meso_n5_relic"}
+ {"name": "Rel\u00edquia Lith S9 (Incomum)"
+ "link": "lith_s9_relic"}]}
+ "es": {"item_name": "Receptor De Tigris Prime"
+ "description": "Un componente de fabricaci\u00f3n de arma prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Tigris_Prime"
+ "drop": [{"name": "Reliquia Axi V5 (Poco Com\u00fan)"
+ "link": "axi_v5_relic"}
+ {"name": "Reliquia Neo S6 (Poco Com\u00fan)"
+ "link": "neo_s6_relic"}
+ {"name": "Reliquia Neo V3 (Poco Com\u00fan)"
+ "link": "neo_v3_relic"}
+ {"name": "Reliquia Meso T2 (Poco Com\u00fan)"
+ "link": "meso_t2_relic"}
+ {"name": "Reliquia Meso S6 (Poco Com\u00fan)"
+ "link": "meso_s6_relic"}
+ {"name": "Reliquia Meso K1 (Poco Com\u00fan)"
+ "link": "meso_k1_relic"}
+ {"name": "Reliquia Meso N5 (Poco Com\u00fan)"
+ "link": "meso_n5_relic"}
+ {"name": "Reliquia Lith S9 (Poco Com\u00fan)"
+ "link": "lith_s9_relic"}]}
+ "pl": {"item_name": "Tigris Prime: Korpus"
+ "description": "Element wytwarzania broni Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Tigris_Prime"
+ "drop": [{"name": "Relikt Axi V5 (Nieprzeci\u0119tny)"
+ "link": "axi_v5_relic"}
+ {"name": "Relikt Neo S6 (Nieprzeci\u0119tny)"
+ "link": "neo_s6_relic"}
+ {"name": "Relikt Neo V3 (Nieprzeci\u0119tny)"
+ "link": "neo_v3_relic"}
+ {"name": "Relikt Meso T2 (Nieprzeci\u0119tny)"
+ "link": "meso_t2_relic"}
+ {"name": "Relikt Meso S6 (Nieprzeci\u0119tny)"
+ "link": "meso_s6_relic"}
+ {"name": "Relikt Meso K1 (Nieprzeci\u0119tny)"
+ "link": "meso_k1_relic"}
+ {"name": "Relikt Meso N5 (Nieprzeci\u0119tny)"
+ "link": "meso_n5_relic"}
+ {"name": "Relikt Lith S9 (Nieprzeci\u0119tny)"
+ "link": "lith_s9_relic"}]}}
+ {"set_root": false
+ "thumb": "icons/en/thumbs/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+ "trading_tax": 2000
+ "id": "57bc9c84e506eb45ea251459"
+ "tags": ["shotgun"
+ "prime"
+ "primary"
+ "weapon"
+ "blueprint"]
+ "icon": "icons/en/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.png"
+ "mastery_level": 13
+ "url_name": "tigris_prime_blueprint"
+ "ducats": 100
+ "icon_format": "land"
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Tigris Prime Blueprint"
+ "description": "An artifact of exquisite beauty. A weapon of deadly purpose."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi T1 Relic (Rare)"
+ "link": "axi_t1_relic"}
+ {"name": "Neo T1 Relic (Rare)"
+ "link": "neo_t1_relic"}
+ {"name": "Lith T3 Relic (Rare)"
+ "link": "lith_t3_relic"}
+ {"name": "Lith T1 Relic (Rare)"
+ "link": "lith_t1_relic"}]}
+ "ru": {"item_name": "\u0422\u0438\u0433\u0440\u0438\u0441 \u041f\u0440\u0430\u0439\u043c: \u0427\u0435\u0440\u0442\u0435\u0436"
+ "description": "\u0410\u0440\u0442\u0435\u0444\u0430\u043a\u0442 \u043d\u0435\u043e\u0431\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u043a\u0440\u0430\u0441\u043e\u0442\u044b. \u041e\u0440\u0443\u0436\u0438\u0435
+ \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u043e\u0435 \u0434\u043b\u044f \u0443\u0431\u0438\u0439\u0441\u0442\u0432."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 T1 (\u0420\u0435\u0434\u043a\u0438\u0439)"
+ "link": "axi_t1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e T1 (\u0420\u0435\u0434\u043a\u0438\u0439)"
+ "link": "neo_t1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 T3 (\u0420\u0435\u0434\u043a\u0438\u0439)"
+ "link": "lith_t3_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 T1 (\u0420\u0435\u0434\u043a\u0438\u0439)"
+ "link": "lith_t1_relic"}]}
+ "ko": {"item_name": "\ud2f0\uadf8\ub9ac\uc2a4 \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\uc815\uad50\ud55c \uc544\ub984\ub2e4\uc6c0\uc744 \uac16\ucd98 \uc720\ubb3c\uc784\uacfc \ub3d9\uc2dc\uc5d0 \uce58\uba85\uc801\uc778 \uc0ac\uc6a9\ubc95\uc744 \uc9c0\ub2cc \ubb34\uae30\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\uc561\uc2dc T1 \uc131\uc720\ubb3c (\ub808\uc5b4)"
+ "link": "axi_t1_relic"}
+ {"name": "\ub124\uc624 T1 \uc131\uc720\ubb3c (\ub808\uc5b4)"
+ "link": "neo_t1_relic"}
+ {"name": "\ub9ac\uc2a4 T3 \uc131\uc720\ubb3c (\ub808\uc5b4)"
+ "link": "lith_t3_relic"}
+ {"name": "\ub9ac\uc2a4 T1 \uc131\uc720\ubb3c (\ub808\uc5b4)"
+ "link": "lith_t1_relic"}]}
+ "fr": {"item_name": "Tigris Prime - Sch\u00e9ma"
+ "description": "Un artefact d'une exquise beaut\u00e9. Une arme au dessein meurtrier."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Tigris_Prime"
+ "drop": [{"name": "Relique Axi T1 (Rare)"
+ "link": "axi_t1_relic"}
+ {"name": "Relique Neo T1 (Rare)"
+ "link": "neo_t1_relic"}
+ {"name": "Relique Lith T3 (Rare)"
+ "link": "lith_t3_relic"}
+ {"name": "Relique Lith T1 (Rare)"
+ "link": "lith_t1_relic"}]}
+ "sv": {"item_name": "Tigris Prime Blueprint"
+ "description": "An artifact of exquisite beauty. A weapon of deadly purpose."
+ "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi T1 Relic (Rare)"
+ "link": "axi_t1_relic"}
+ {"name": "Neo T1 Relic (Rare)"
+ "link": "neo_t1_relic"}
+ {"name": "Lith T3 Relic (Rare)"
+ "link": "lith_t3_relic"}
+ {"name": "Lith T1 Relic (Rare)"
+ "link": "lith_t1_relic"}]}
+ "de": {"item_name": "Tigris Prime: Blaupause"
+ "description": "Ein Artefakt von erlesener Sch\u00f6nheit. Eine Waffe mit t\u00f6dlicher Bestimmung."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Tigris_Prime"
+ "drop": [{"name": "Axi-relikt: T1 (Selten)"
+ "link": "axi_t1_relic"}
+ {"name": "Neo-relikt: T1 (Selten)"
+ "link": "neo_t1_relic"}
+ {"name": "Lith-relikt: T3 (Selten)"
+ "link": "lith_t3_relic"}
+ {"name": "Lith-relikt: T1 (Selten)"
+ "link": "lith_t1_relic"}]}
+ "zh-hant": {"item_name": "\u731b\u864e Prime \u85cd\u5716"
+ "description": "\uff08\u82f1\u6587\uff1aTIGRIS PRIME\uff09\u65e2\u662f\u7cbe\u7f8e\u7684\u5de5\u85dd\u54c1\uff0c\u4e5f\u662f\u81f4\u547d\u7684\u6b66\u5668\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 T1 \u907a\u7269 (\u7a00\u6709)"
+ "link": "axi_t1_relic"}
+ {"name": "\u4e2d\u7d00 T1 \u907a\u7269 (\u7a00\u6709)"
+ "link": "neo_t1_relic"}
+ {"name": "\u53e4\u7d00 T3 \u907a\u7269 (\u7a00\u6709)"
+ "link": "lith_t3_relic"}
+ {"name": "\u53e4\u7d00 T1 \u907a\u7269 (\u7a00\u6709)"
+ "link": "lith_t1_relic"}]}
+ "zh-hans": {"item_name": "\u731b\u864e Prime \u84dd\u56fe"
+ "description": "\uff08\u82f1\u6587\uff1aTIGRIS PRIME\uff09\u65e2\u662f\u7cbe\u7f8e\u7684\u5de5\u827a\u54c1\uff0c\u4e5f\u662f\u81f4\u547d\u7684\u6b66\u5668\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime"
+ "drop": [{"name": "\u540e\u7eaa T1 \u9057\u7269 (\u7a00\u6709)"
+ "link": "axi_t1_relic"}
+ {"name": "\u4e2d\u7eaa T1 \u9057\u7269 (\u7a00\u6709)"
+ "link": "neo_t1_relic"}
+ {"name": "\u53e4\u7eaa T3 \u9057\u7269 (\u7a00\u6709)"
+ "link": "lith_t3_relic"}
+ {"name": "\u53e4\u7eaa T1 \u9057\u7269 (\u7a00\u6709)"
+ "link": "lith_t1_relic"}]}
+ "pt": {"item_name": "Tigris Prime: Diagrama"
+ "description": "Um artefato de beleza singular. Uma arma com prop\u00f3sito letal."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tigris_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi T1 (Raro)"
+ "link": "axi_t1_relic"}
+ {"name": "Rel\u00edquia Neo T1 (Raro)"
+ "link": "neo_t1_relic"}
+ {"name": "Rel\u00edquia Lith T3 (Raro)"
+ "link": "lith_t3_relic"}
+ {"name": "Rel\u00edquia Lith T1 (Raro)"
+ "link": "lith_t1_relic"}]}
+ "es": {"item_name": "Plano de Tigris Prime"
+ "description": "Un artefacto de belleza exquisita. Un arma de prop\u00f3sitos letales."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Tigris_Prime"
+ "drop": [{"name": "Reliquia Axi T1 (Raro)"
+ "link": "axi_t1_relic"}
+ {"name": "Reliquia Neo T1 (Raro)"
+ "link": "neo_t1_relic"}
+ {"name": "Reliquia Lith T3 (Raro)"
+ "link": "lith_t3_relic"}
+ {"name": "Reliquia Lith T1 (Raro)"
+ "link": "lith_t1_relic"}]}
+ "pl": {"item_name": "Tigris Prime: Schemat"
+ "description": "Artefakt niezwyk\u0142ego pi\u0119kna. Bro\u0144 o \u015bmiertelnym przeznaczeniu."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Tigris_Prime"
+ "drop": [{"name": "Relikt Axi T1 (Rzadki)"
+ "link": "axi_t1_relic"}
+ {"name": "Relikt Neo T1 (Rzadki)"
+ "link": "neo_t1_relic"}
+ {"name": "Relikt Lith T3 (Rzadki)"
+ "link": "lith_t3_relic"}
+ {"name": "Relikt Lith T1 (Rzadki)"
+ "link": "lith_t1_relic"}]}}]}}}

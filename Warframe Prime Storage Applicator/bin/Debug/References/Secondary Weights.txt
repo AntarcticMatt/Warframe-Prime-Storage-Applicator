@@ -1,0 +1,16 @@
+1,	Akbolto,	15,	45,	100,	45
+2,	Akbronco,	15,	45,	Bronco
+1,	Akjagara,	15,	100,	45,	45
+2,	Aklex,		45,	100,	Lex
+1,	Aksomati,	15,	45,	15,	100
+1,	Akstiletto,	100,	45,	45,	45
+2,	Akvasto,	100,	45,	Vasto
+3,	Ballistica,	100,	15,	45,	45,	45,Lower Limb,Upper Limb,Receiver,String
+0,	Bronco,		15,	45,	15	
+0,	Euphona,	15,	45,	100	
+0,	Hikou,		15,	15,	15	
+0,	Lex,		25,	15,	15	
+0,	Pyrana,		100,	15,	45	
+0,	Sicarus,	15,	15,	100	
+0,	Spira,		15,	65,	100	
+0,	Vasto,		45,	15,	15	

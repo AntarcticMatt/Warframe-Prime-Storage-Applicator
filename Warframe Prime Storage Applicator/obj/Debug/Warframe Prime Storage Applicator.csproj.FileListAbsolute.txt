@@ -1,0 +1,30 @@
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.exe.config
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.exe
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.pdb
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.csprojAssemblyReference.cache
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe_Prime_Storage_Applicator.Form1.resources
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe_Prime_Storage_Applicator.Properties.Resources.resources
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.csproj.GenerateResource.cache
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.csproj.CoreCompileInputs.cache
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.exe
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.pdb
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.exe.manifest
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.application
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.exe.manifest
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.application
+D:\Uni Work\Personal stuff\Warframe\Warframe Prime Storage Applicator\obj\Debug\Warframe_Prime_Storage_Applicator.Form2.resources
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.exe.config
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.exe.manifest
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.application
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.exe
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\bin\Debug\Warframe Prime Storage Applicator.pdb
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.csproj.AssemblyReference.cache
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe_Prime_Storage_Applicator.Form1.resources
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe_Prime_Storage_Applicator.Form2.resources
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe_Prime_Storage_Applicator.Properties.Resources.resources
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.csproj.GenerateResource.cache
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.csproj.CoreCompileInputs.cache
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.exe.manifest
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.application
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.exe
+C:\Users\stimp\source\repos\Warframe Prime Storage Applicator\Warframe Prime Storage Applicator\obj\Debug\Warframe Prime Storage Applicator.pdb

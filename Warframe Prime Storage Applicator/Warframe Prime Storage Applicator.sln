@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warframe Prime Storage Applicator", "Warframe Prime Storage Applicator.csproj", "{D6E5545E-EAA7-4619-B6CA-316B112F6334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E5545E-EAA7-4619-B6CA-316B112F6334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E5545E-EAA7-4619-B6CA-316B112F6334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E5545E-EAA7-4619-B6CA-316B112F6334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E5545E-EAA7-4619-B6CA-316B112F6334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06C8F1B-353E-4A56-8A68-B610F65DC56B}
+	EndGlobalSection
+EndGlobal

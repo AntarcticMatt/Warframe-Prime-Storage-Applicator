@@ -1,0 +1,16 @@
+Baza		,100	,45	,15	,100	,Barrel,Receiver,Stock
+Boar		,15	,45	,15	,100	,Barrel,Receiver,Stock
+Boltor		,100	,15	,45	,15	,Barrel,Receiver,Stock
+Braton		,25	,15	,45	,15	,Barrel,Receiver,Stock
+Burston		,15	,45	,15	,15	,Barrel,Receiver,Stock
+Cernos		,45	,100	,15	,15	,45	,Lower Limb,Upper Limb,Grip,String
+Latron		,15	,15	,15	,15	,Barrel,Receiver,Stock
+Paris		,15	,15	,25	,45	,15	,Lower Limb,Upper Limb,Grip,String
+Rubico		,100	,45	,15	,45	,Barrel,Receiver,Stock
+Soma		,15	,15	,45	,100	,Barrel,Receiver,Stock
+Stradavar	,100	,45	,15	,15	,Barrel,Receiver,Stock
+Sybaris		,15	,100	,45	,15	,Barrel,Receiver,Stock	
+Tiberon		,45	,100	,15	,100	,Barrel,Receiver,Stock
+Tigris		,100	,45	,45	,15	,Barrel,Receiver,Stock
+Vectis		,45	,15	,100	,65	,Barrel,Receiver,Stock
+Zhuge		,45	,100	,45	,15	,15	,Barrel,Receiver,Grip,String

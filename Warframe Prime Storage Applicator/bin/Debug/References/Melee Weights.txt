@@ -1,0 +1,23 @@
+1,	Ankyros,	15,	65,	15,		Blade,		Handle
+2,	Bo,		15,	15,	45,		Ornament,	Handle
+0,	Dakra,		45,	65,	15,		Blade,		Handle
+0,	Destreza,	45,	100,	15,		Blade,		Handle
+1,	Dual Kamas,	15,	100,	45,		Blade,		Handle
+1,	Fang,		15,	15,	25,		Blade,		Handle
+0,	Fragor,		65,	15,	65,		Head,		Handle
+0,	Galatine,	100,	15,	45,		Blade,		Handle
+2,	Glaive,		100,	45,	45,		Blade,		Disc
+0,	Gram,		45,	15,	100,		Blade,		Handle
+1,	Kogake,		45,	100,	15,		Gauntlet,	Boot
+1,	Kronen,		15,	100,	45,		Blade,		Handle
+1,	Nami Sykla,	15,	100,	45,		Blade,		Handle
+0,	Nikana,		25,	65,	100,		Blade,		Handle
+2,	Ninkondi,	15,	100,	45,		Handle,		Chain
+2,	Orthos,		45,	45,	15,		Blade,		Handle
+0,	Reaper,		15,	45,	15,		Blade,		Handle
+0,	Redeemer,	45,	15,	100,		Blade,		Handle
+0,	Scindo,		45,	100,	45,		Blade,		Handle
+3,	Silva & Aegis,	45,	45,	15,	100,	Blade,		Handle,		Guard
+1,	Tekko,		45,	100,	15,		Blade,		Gauntlet
+2,	Tipedo,		15,	45,	100,		Ornament,	Handle
+1,	Venka,		45,	15,	100,		Blade,		Handle

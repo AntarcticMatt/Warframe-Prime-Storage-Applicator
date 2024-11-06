@@ -1,0 +1,1 @@
+"\"set_root\"", "\"thumb\"", "\"id\"", "\"icon\"", "\"url_name\"", "\"icon_format\"", "\"sub_icon\"", "\"trading_tax\"", "\"mastery_level\"", "\"ducats\"", "\"quantity_for_set\""

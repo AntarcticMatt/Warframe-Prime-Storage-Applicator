@@ -1,0 +1,852 @@
+{"payload": {"item": {"id": "56783f24cbfa8f0432dd89af"
+ "items_in_set": [{"icon_format": "port"
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "set_root": false
+ "id": "56153689b66f836f7a3c0baf"
+ "url_name": "trinity_prime_blueprint"
+ "mastery_level": 0
+ "ducats": 45
+ "tags": ["blueprint"
+ "warframe"
+ "prime"]
+ "trading_tax": 2000
+ "thumb": "icons/en/thumbs/trinity_prime_blueprint.4115dba418ab8ee70197a7fdaee8da76.128x128.png"
+ "icon": "icons/en/trinity_prime_blueprint.4115dba418ab8ee70197a7fdaee8da76.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Trinity Prime Blueprint"
+ "description": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi S1 Relic (Uncommon)"
+ "link": "axi_s1_relic"}
+ {"name": "Neo N6 Relic (Uncommon)"
+ "link": "neo_n6_relic"}
+ {"name": "Meso S4 Relic (Uncommon)"
+ "link": "meso_s4_relic"}
+ {"name": "Meso P6 Relic (Uncommon)"
+ "link": "meso_p6_relic"}
+ {"name": "Lith K4 Relic (Uncommon)"
+ "link": "lith_k4_relic"}
+ {"name": "Lith K1 Relic (Uncommon)"
+ "link": "lith_k1_relic"}]}
+ "ru": {"item_name": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u0427\u0435\u0440\u0442\u0435\u0436"
+ "description": "\u0421\u0442\u0430\u043d\u044c\u0442\u0435 \u043e\u043f\u043b\u043e\u0442\u043e\u043c
+ \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0449\u0438\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432
+ \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043c\u043e\u0449\u043d\u044b\u0435 \u043b\u0435\u0447\u0430\u0449\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c. \u041e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u043f\u043e\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0441\u043b\u043e\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u043e\u043b\u0435\u0435 \u0442\u043e\u043d\u043a\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 S1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_s1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e N6 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_n6_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e S4 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_s4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e P6 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_p6_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 K4 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_k4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 K1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_k1_relic"}]}
+ "ko": {"item_name": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784\uc758 \uac15\ub825\ud55c \uce58\uc720 \ub2a5\ub825\uc73c\ub85c \uc544\uad70\uc744 \ubcf4\ud638\ud558\ub294 \uc218\ud638\uc790\uac00 \ub418\uc5b4 \ubcf4\uc138\uc694. \ub354\uc6b1 \ub2e4\ucc44\ub85c\uc6b4 \ud2b9\uc131\ud654\ub97c \uc704\ud55c \ucd94\uac00 \ubaa8\ub4dc \uadf9\uc131\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\uc561\uc2dc S1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "axi_s1_relic"}
+ {"name": "\ub124\uc624 N6 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_n6_relic"}
+ {"name": "\uba54\uc18c S4 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "meso_s4_relic"}
+ {"name": "\uba54\uc18c P6 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "meso_p6_relic"}
+ {"name": "\ub9ac\uc2a4 K4 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_k4_relic"}
+ {"name": "\ub9ac\uc2a4 K1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_k1_relic"}]}
+ "fr": {"item_name": "Trinity Prime - Sch\u00e9ma"
+ "description": "Devenez le bastion d\u00e9fendant ses alli\u00e9s en utilisant de puissants Pouvoirs de soin avec Trinity Prime. Elle poss\u00e8de des polarit\u00e9s de Mods alt\u00e9r\u00e9es pour une meilleure personnalisation."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime"
+ "drop": [{"name": "Relique Axi S1 (Inhabituel)"
+ "link": "axi_s1_relic"}
+ {"name": "Relique Neo N6 (Inhabituel)"
+ "link": "neo_n6_relic"}
+ {"name": "Relique Meso S4 (Inhabituel)"
+ "link": "meso_s4_relic"}
+ {"name": "Relique Meso P6 (Inhabituel)"
+ "link": "meso_p6_relic"}
+ {"name": "Relique Lith K4 (Inhabituel)"
+ "link": "lith_k4_relic"}
+ {"name": "Relique Lith K1 (Inhabituel)"
+ "link": "lith_k1_relic"}]}
+ "sv": {"item_name": "Trinity Prime Blueprint"
+ "description": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi S1 Relic (Uncommon)"
+ "link": "axi_s1_relic"}
+ {"name": "Neo N6 Relic (Uncommon)"
+ "link": "neo_n6_relic"}
+ {"name": "Meso S4 Relic (Uncommon)"
+ "link": "meso_s4_relic"}
+ {"name": "Meso P6 Relic (Uncommon)"
+ "link": "meso_p6_relic"}
+ {"name": "Lith K4 Relic (Uncommon)"
+ "link": "lith_k4_relic"}
+ {"name": "Lith K1 Relic (Uncommon)"
+ "link": "lith_k1_relic"}]}
+ "de": {"item_name": "Trinity Prime: Blaupause"
+ "description": "Werde die Bastion f\u00fcr deine Verb\u00fcndeten und verteidige diese mit den m\u00e4chtigen Heilungsf\u00e4higkeiten von Trinity Prime. Bietet ver\u00e4nderte Mod-Polarit\u00e4ten f\u00fcr noch bessere Anpassungsm\u00f6glichkeiten."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi-relikt: S1 (Ungew\u00f6hnlich)"
+ "link": "axi_s1_relic"}
+ {"name": "Neo-relikt: N6 (Ungew\u00f6hnlich)"
+ "link": "neo_n6_relic"}
+ {"name": "Meso-relikt: S4 (Ungew\u00f6hnlich)"
+ "link": "meso_s4_relic"}
+ {"name": "Meso-relikt: P6 (Ungew\u00f6hnlich)"
+ "link": "meso_p6_relic"}
+ {"name": "Lith-relikt: K4 (Ungew\u00f6hnlich)"
+ "link": "lith_k4_relic"}
+ {"name": "Lith-relikt: K1 (Ungew\u00f6hnlich)"
+ "link": "lith_k1_relic"}]}
+ "zh-hant": {"item_name": "Trinity Prime \u85cd\u5716"
+ "description": "Trinity Prime \u64cd\u63a7\u5f37\u5927\u7684\u6cbb\u7652\u80fd\u529b\uff0c\u6210\u70ba\u634d\u885b\u76df\u53cb\u7684\u58c1\u58d8\uff0c\u64c1\u6709\u6539\u9020\u904e\u7684 MOD \u6975\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u512a\u79c0\u7684\u81ea\u8a02\u6027\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 S1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "axi_s1_relic"}
+ {"name": "\u4e2d\u7d00 N6 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_n6_relic"}
+ {"name": "\u524d\u7d00 S4 \u907a\u7269 (\u7f55\u898b)"
+ "link": "meso_s4_relic"}
+ {"name": "\u524d\u7d00 P6 \u907a\u7269 (\u7f55\u898b)"
+ "link": "meso_p6_relic"}
+ {"name": "\u53e4\u7d00 K4 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_k4_relic"}
+ {"name": "\u53e4\u7d00 K1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_k1_relic"}]}
+ "zh-hans": {"item_name": "Trinity Prime \u84dd\u56fe"
+ "description": "Trinity Prime \u64cd\u63a7\u5f3a\u5927\u7684\u6cbb\u6108\u80fd\u529b\uff0c\u6210\u4e3a\u634d\u536b\u53cb\u519b\u7684\u58c1\u5792\u3002\u62e5\u6709\u6539\u9020\u8fc7\u7684 Mod \u6781\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u4f18\u79c0\u7684\u81ea\u5b9a\u4e49\u7a7a\u95f4\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u540e\u7eaa S1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "axi_s1_relic"}
+ {"name": "\u4e2d\u7eaa N6 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_n6_relic"}
+ {"name": "\u524d\u7eaa S4 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "meso_s4_relic"}
+ {"name": "\u524d\u7eaa P6 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "meso_p6_relic"}
+ {"name": "\u53e4\u7eaa K4 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_k4_relic"}
+ {"name": "\u53e4\u7eaa K1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_k1_relic"}]}
+ "pt": {"item_name": "Trinity Prime: Diagrama"
+ "description": "Transforme-se no fio de esperan\u00e7a que defende os aliados usando habilidades poderosas de cura com a Trinity Prime. Inclusas polaridades alteradas de mods para uma maior personaliza\u00e7\u00e3o."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi S1 (Incomum)"
+ "link": "axi_s1_relic"}
+ {"name": "Rel\u00edquia Neo N6 (Incomum)"
+ "link": "neo_n6_relic"}
+ {"name": "Rel\u00edquia Meso S4 (Incomum)"
+ "link": "meso_s4_relic"}
+ {"name": "Rel\u00edquia Meso P6 (Incomum)"
+ "link": "meso_p6_relic"}
+ {"name": "Rel\u00edquia Lith K4 (Incomum)"
+ "link": "lith_k4_relic"}
+ {"name": "Rel\u00edquia Lith K1 (Incomum)"
+ "link": "lith_k1_relic"}]}
+ "es": {"item_name": "Plano de Trinity Prime"
+ "description": "Convi\u00e9rtete en un basti\u00f3n que defiende a sus aliados con habilidades de sanaci\u00f3n con Trinity Prime. Cuenta con polaridades de mod alteradas para una mayor personalizaci\u00f3n."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime"
+ "drop": [{"name": "Reliquia Axi S1 (Poco Com\u00fan)"
+ "link": "axi_s1_relic"}
+ {"name": "Reliquia Neo N6 (Poco Com\u00fan)"
+ "link": "neo_n6_relic"}
+ {"name": "Reliquia Meso S4 (Poco Com\u00fan)"
+ "link": "meso_s4_relic"}
+ {"name": "Reliquia Meso P6 (Poco Com\u00fan)"
+ "link": "meso_p6_relic"}
+ {"name": "Reliquia Lith K4 (Poco Com\u00fan)"
+ "link": "lith_k4_relic"}
+ {"name": "Reliquia Lith K1 (Poco Com\u00fan)"
+ "link": "lith_k1_relic"}]}
+ "pl": {"item_name": "Trinity Prime: Schemat"
+ "description": "Sta\u0144 si\u0119 podpor\u0105 zespo\u0142u chroni\u0105c\u0105 sojusznik\u00f3w przed atakiem wroga przy pomocy lecz\u0105cych umiej\u0119tno\u015bci Trinity Prime. Zawiera zmienione polaryzacje
+ dla wi\u0119kszych mo\u017cliwo\u015bci personalizacji."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime"
+ "drop": [{"name": "Relikt Axi S1 (Nieprzeci\u0119tny)"
+ "link": "axi_s1_relic"}
+ {"name": "Relikt Neo N6 (Nieprzeci\u0119tny)"
+ "link": "neo_n6_relic"}
+ {"name": "Relikt Meso S4 (Nieprzeci\u0119tny)"
+ "link": "meso_s4_relic"}
+ {"name": "Relikt Meso P6 (Nieprzeci\u0119tny)"
+ "link": "meso_p6_relic"}
+ {"name": "Relikt Lith K4 (Nieprzeci\u0119tny)"
+ "link": "lith_k4_relic"}
+ {"name": "Relikt Lith K1 (Nieprzeci\u0119tny)"
+ "link": "lith_k1_relic"}]}}
+ {"icon_format": "port"
+ "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png"
+ "set_root": false
+ "id": "56153692b66f836f7d649936"
+ "url_name": "trinity_prime_neuroptics"
+ "mastery_level": 0
+ "ducats": 25
+ "tags": ["component"
+ "blueprint"
+ "prime"
+ "neuroptics"
+ "warframe"]
+ "trading_tax": 2000
+ "thumb": "icons/en/thumbs/trinity_prime_neuroptics.4115dba418ab8ee70197a7fdaee8da76.128x128.png"
+ "icon": "icons/en/trinity_prime_neuroptics.4115dba418ab8ee70197a7fdaee8da76.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Trinity Prime Neuroptics"
+ "description": "Neuroptics component of the Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi C1 Relic (Common)"
+ "link": "axi_c1_relic"}
+ {"name": "Axi V3 Relic (Common)"
+ "link": "axi_v3_relic"}
+ {"name": "Neo N7 Relic (Common)"
+ "link": "neo_n7_relic"}
+ {"name": "Neo S6 Relic (Common)"
+ "link": "neo_s6_relic"}
+ {"name": "Neo D1 Relic (Uncommon)"
+ "link": "neo_d1_relic"}
+ {"name": "Meso D5 Relic (Common)"
+ "link": "meso_d5_relic"}
+ {"name": "Lith K8 Relic (Uncommon)"
+ "link": "lith_k8_relic"}]}
+ "ru": {"item_name": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u041d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u043d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 C1 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_c1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 V3 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_v3_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e N7 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_n7_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e S6 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_s6_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e D1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_d1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041c\u0435\u0437\u043e D5 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "meso_d5_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 K8 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_k8_relic"}]}
+ "ko": {"item_name": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \ub274\ub85c\uc635\ud2f1\uc2a4"
+ "description": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \ub274\ub85c\uc635\ud2f1\uc2a4 \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\uc561\uc2dc C1 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_c1_relic"}
+ {"name": "\uc561\uc2dc V3 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_v3_relic"}
+ {"name": "\ub124\uc624 N7 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_n7_relic"}
+ {"name": "\ub124\uc624 S6 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_s6_relic"}
+ {"name": "\ub124\uc624 D1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_d1_relic"}
+ {"name": "\uba54\uc18c D5 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "meso_d5_relic"}
+ {"name": "\ub9ac\uc2a4 K8 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_k8_relic"}]}
+ "fr": {"item_name": "Trinity Prime - Neuroptiques"
+ "description": "Le composant Neuroptiques de la Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime"
+ "drop": [{"name": "Relique Axi C1 (Commun)"
+ "link": "axi_c1_relic"}
+ {"name": "Relique Axi V3 (Commun)"
+ "link": "axi_v3_relic"}
+ {"name": "Relique Neo N7 (Commun)"
+ "link": "neo_n7_relic"}
+ {"name": "Relique Neo S6 (Commun)"
+ "link": "neo_s6_relic"}
+ {"name": "Relique Neo D1 (Inhabituel)"
+ "link": "neo_d1_relic"}
+ {"name": "Relique Meso D5 (Commun)"
+ "link": "meso_d5_relic"}
+ {"name": "Relique Lith K8 (Inhabituel)"
+ "link": "lith_k8_relic"}]}
+ "sv": {"item_name": "Trinity Prime Neuroptics"
+ "description": "Neuroptics component of the Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi C1 Relic (Common)"
+ "link": "axi_c1_relic"}
+ {"name": "Axi V3 Relic (Common)"
+ "link": "axi_v3_relic"}
+ {"name": "Neo N7 Relic (Common)"
+ "link": "neo_n7_relic"}
+ {"name": "Neo S6 Relic (Common)"
+ "link": "neo_s6_relic"}
+ {"name": "Neo D1 Relic (Uncommon)"
+ "link": "neo_d1_relic"}
+ {"name": "Meso D5 Relic (Common)"
+ "link": "meso_d5_relic"}
+ {"name": "Lith K8 Relic (Uncommon)"
+ "link": "lith_k8_relic"}]}
+ "de": {"item_name": "Trinity Prime: Neuroptik"
+ "description": "Neuroptik-Komponente f\u00fcr den Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi-relikt: C1 (Gew\u00f6hnlich)"
+ "link": "axi_c1_relic"}
+ {"name": "Axi-relikt: V3 (Gew\u00f6hnlich)"
+ "link": "axi_v3_relic"}
+ {"name": "Neo-relikt: N7 (Gew\u00f6hnlich)"
+ "link": "neo_n7_relic"}
+ {"name": "Neo-relikt: S6 (Gew\u00f6hnlich)"
+ "link": "neo_s6_relic"}
+ {"name": "Neo-relikt: D1 (Ungew\u00f6hnlich)"
+ "link": "neo_d1_relic"}
+ {"name": "Meso-relikt: D5 (Gew\u00f6hnlich)"
+ "link": "meso_d5_relic"}
+ {"name": "Lith-relikt: K8 (Ungew\u00f6hnlich)"
+ "link": "lith_k8_relic"}]}
+ "zh-hant": {"item_name": "Trinity Prime \u982d\u90e8\u795e\u7d93\u5149\u5143"
+ "description": "Trinity Prime Warframe \u7684\u982d\u90e8\u795e\u7d93\u5149\u5143\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 C1 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_c1_relic"}
+ {"name": "\u5f8c\u7d00 V3 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_v3_relic"}
+ {"name": "\u4e2d\u7d00 N7 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_n7_relic"}
+ {"name": "\u4e2d\u7d00 S6 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_s6_relic"}
+ {"name": "\u4e2d\u7d00 D1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_d1_relic"}
+ {"name": "\u524d\u7d00 D5 \u907a\u7269 (\u5e38\u898b)"
+ "link": "meso_d5_relic"}
+ {"name": "\u53e4\u7d00 K8 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_k8_relic"}]}
+ "zh-hans": {"item_name": "Trinity Prime \u5934\u90e8\u795e\u7ecf\u5149\u5143"
+ "description": "Trinity Prime \u6218\u7532\u7684\u5934\u90e8\u795e\u7ecf\u5149\u5143\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u540e\u7eaa C1 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_c1_relic"}
+ {"name": "\u540e\u7eaa V3 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_v3_relic"}
+ {"name": "\u4e2d\u7eaa N7 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_n7_relic"}
+ {"name": "\u4e2d\u7eaa S6 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_s6_relic"}
+ {"name": "\u4e2d\u7eaa D1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_d1_relic"}
+ {"name": "\u524d\u7eaa D5 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "meso_d5_relic"}
+ {"name": "\u53e4\u7eaa K8 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_k8_relic"}]}
+ "pt": {"item_name": "Trinity Prime: Neurovisor"
+ "description": "Neurovisor componente do Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi C1 (Comum)"
+ "link": "axi_c1_relic"}
+ {"name": "Rel\u00edquia Axi V3 (Comum)"
+ "link": "axi_v3_relic"}
+ {"name": "Rel\u00edquia Neo N7 (Comum)"
+ "link": "neo_n7_relic"}
+ {"name": "Rel\u00edquia Neo S6 (Comum)"
+ "link": "neo_s6_relic"}
+ {"name": "Rel\u00edquia Neo D1 (Incomum)"
+ "link": "neo_d1_relic"}
+ {"name": "Rel\u00edquia Meso D5 (Comum)"
+ "link": "meso_d5_relic"}
+ {"name": "Rel\u00edquia Lith K8 (Incomum)"
+ "link": "lith_k8_relic"}]}
+ "es": {"item_name": "Neur\u00f3pticas De Trinity Prime"
+ "description": "Componente de las neur\u00f3pticas del warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime"
+ "drop": [{"name": "Reliquia Axi C1 (Com\u00fan)"
+ "link": "axi_c1_relic"}
+ {"name": "Reliquia Axi V3 (Com\u00fan)"
+ "link": "axi_v3_relic"}
+ {"name": "Reliquia Neo N7 (Com\u00fan)"
+ "link": "neo_n7_relic"}
+ {"name": "Reliquia Neo S6 (Com\u00fan)"
+ "link": "neo_s6_relic"}
+ {"name": "Reliquia Neo D1 (Poco Com\u00fan)"
+ "link": "neo_d1_relic"}
+ {"name": "Reliquia Meso D5 (Com\u00fan)"
+ "link": "meso_d5_relic"}
+ {"name": "Reliquia Lith K8 (Poco Com\u00fan)"
+ "link": "lith_k8_relic"}]}
+ "pl": {"item_name": "Trinity Prime: Neurooptyka"
+ "description": "Neurooptyka dla Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime"
+ "drop": [{"name": "Relikt Axi C1 (Powszechny)"
+ "link": "axi_c1_relic"}
+ {"name": "Relikt Axi V3 (Powszechny)"
+ "link": "axi_v3_relic"}
+ {"name": "Relikt Neo N7 (Powszechny)"
+ "link": "neo_n7_relic"}
+ {"name": "Relikt Neo S6 (Powszechny)"
+ "link": "neo_s6_relic"}
+ {"name": "Relikt Neo D1 (Nieprzeci\u0119tny)"
+ "link": "neo_d1_relic"}
+ {"name": "Relikt Meso D5 (Powszechny)"
+ "link": "meso_d5_relic"}
+ {"name": "Relikt Lith K8 (Nieprzeci\u0119tny)"
+ "link": "lith_k8_relic"}]}}
+ {"icon_format": "port"
+ "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png"
+ "set_root": false
+ "id": "5615369ab66f836f805c5a8b"
+ "url_name": "trinity_prime_chassis"
+ "mastery_level": 0
+ "ducats": 45
+ "tags": ["component"
+ "blueprint"
+ "prime"
+ "chassis"
+ "warframe"]
+ "trading_tax": 2000
+ "thumb": "icons/en/thumbs/trinity_prime_chassis.4115dba418ab8ee70197a7fdaee8da76.128x128.png"
+ "icon": "icons/en/trinity_prime_chassis.4115dba418ab8ee70197a7fdaee8da76.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Trinity Prime Chassis"
+ "description": "Chassis component of the Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi H2 Relic (Uncommon)"
+ "link": "axi_h2_relic"}
+ {"name": "Axi H1 Relic (Uncommon)"
+ "link": "axi_h1_relic"}
+ {"name": "Axi S7 Relic (Uncommon)"
+ "link": "axi_s7_relic"}
+ {"name": "Neo S1 Relic (Uncommon)"
+ "link": "neo_s1_relic"}
+ {"name": "Lith S4 Relic (Uncommon)"
+ "link": "lith_s4_relic"}
+ {"name": "Lith L3 Relic (Uncommon)"
+ "link": "lith_l3_relic"}]}
+ "ru": {"item_name": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 H2 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_h2_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 H1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_h1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 S7 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_s7_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e S1 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_s1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 S4 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_s4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041b\u0438\u0442 L3 (\u041d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "lith_l3_relic"}]}
+ "ko": {"item_name": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc100\uc2dc"
+ "description": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc100\uc2dc \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\uc561\uc2dc H2 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "axi_h2_relic"}
+ {"name": "\uc561\uc2dc H1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "axi_h1_relic"}
+ {"name": "\uc561\uc2dc S7 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "axi_s7_relic"}
+ {"name": "\ub124\uc624 S1 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "neo_s1_relic"}
+ {"name": "\ub9ac\uc2a4 S4 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_s4_relic"}
+ {"name": "\ub9ac\uc2a4 L3 \uc131\uc720\ubb3c (\uc5b8\ucee4\uba3c)"
+ "link": "lith_l3_relic"}]}
+ "fr": {"item_name": "Trinity Prime - Ch\u00e2ssis"
+ "description": "Le composant Ch\u00e2ssis de la Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime"
+ "drop": [{"name": "Relique Axi H2 (Inhabituel)"
+ "link": "axi_h2_relic"}
+ {"name": "Relique Axi H1 (Inhabituel)"
+ "link": "axi_h1_relic"}
+ {"name": "Relique Axi S7 (Inhabituel)"
+ "link": "axi_s7_relic"}
+ {"name": "Relique Neo S1 (Inhabituel)"
+ "link": "neo_s1_relic"}
+ {"name": "Relique Lith S4 (Inhabituel)"
+ "link": "lith_s4_relic"}
+ {"name": "Relique Lith L3 (Inhabituel)"
+ "link": "lith_l3_relic"}]}
+ "sv": {"item_name": "Trinity Prime Chassis"
+ "description": "Chassis component of the Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi H2 Relic (Uncommon)"
+ "link": "axi_h2_relic"}
+ {"name": "Axi H1 Relic (Uncommon)"
+ "link": "axi_h1_relic"}
+ {"name": "Axi S7 Relic (Uncommon)"
+ "link": "axi_s7_relic"}
+ {"name": "Neo S1 Relic (Uncommon)"
+ "link": "neo_s1_relic"}
+ {"name": "Lith S4 Relic (Uncommon)"
+ "link": "lith_s4_relic"}
+ {"name": "Lith L3 Relic (Uncommon)"
+ "link": "lith_l3_relic"}]}
+ "de": {"item_name": "Trinity Prime: Chassis"
+ "description": "Chassis-Komponente f\u00fcr den Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi-relikt: H2 (Ungew\u00f6hnlich)"
+ "link": "axi_h2_relic"}
+ {"name": "Axi-relikt: H1 (Ungew\u00f6hnlich)"
+ "link": "axi_h1_relic"}
+ {"name": "Axi-relikt: S7 (Ungew\u00f6hnlich)"
+ "link": "axi_s7_relic"}
+ {"name": "Neo-relikt: S1 (Ungew\u00f6hnlich)"
+ "link": "neo_s1_relic"}
+ {"name": "Lith-relikt: S4 (Ungew\u00f6hnlich)"
+ "link": "lith_s4_relic"}
+ {"name": "Lith-relikt: L3 (Ungew\u00f6hnlich)"
+ "link": "lith_l3_relic"}]}
+ "zh-hant": {"item_name": "Trinity Prime \u6a5f\u9ad4"
+ "description": "Trinity Prime Warframe \u7684\u6a5f\u9ad4\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 H2 \u907a\u7269 (\u7f55\u898b)"
+ "link": "axi_h2_relic"}
+ {"name": "\u5f8c\u7d00 H1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "axi_h1_relic"}
+ {"name": "\u5f8c\u7d00 S7 \u907a\u7269 (\u7f55\u898b)"
+ "link": "axi_s7_relic"}
+ {"name": "\u4e2d\u7d00 S1 \u907a\u7269 (\u7f55\u898b)"
+ "link": "neo_s1_relic"}
+ {"name": "\u53e4\u7d00 S4 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_s4_relic"}
+ {"name": "\u53e4\u7d00 L3 \u907a\u7269 (\u7f55\u898b)"
+ "link": "lith_l3_relic"}]}
+ "zh-hans": {"item_name": "Trinity Prime \u673a\u4f53"
+ "description": "Trinity Prime \u6218\u7532\u7684\u673a\u4f53\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u540e\u7eaa H2 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "axi_h2_relic"}
+ {"name": "\u540e\u7eaa H1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "axi_h1_relic"}
+ {"name": "\u540e\u7eaa S7 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "axi_s7_relic"}
+ {"name": "\u4e2d\u7eaa S1 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "neo_s1_relic"}
+ {"name": "\u53e4\u7eaa S4 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_s4_relic"}
+ {"name": "\u53e4\u7eaa L3 \u9057\u7269 (\u7f55\u89c1)"
+ "link": "lith_l3_relic"}]}
+ "pt": {"item_name": "Trinity Prime: Chassi"
+ "description": "Chassi componente do Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi H2 (Incomum)"
+ "link": "axi_h2_relic"}
+ {"name": "Rel\u00edquia Axi H1 (Incomum)"
+ "link": "axi_h1_relic"}
+ {"name": "Rel\u00edquia Axi S7 (Incomum)"
+ "link": "axi_s7_relic"}
+ {"name": "Rel\u00edquia Neo S1 (Incomum)"
+ "link": "neo_s1_relic"}
+ {"name": "Rel\u00edquia Lith S4 (Incomum)"
+ "link": "lith_s4_relic"}
+ {"name": "Rel\u00edquia Lith L3 (Incomum)"
+ "link": "lith_l3_relic"}]}
+ "es": {"item_name": "Chasis De Trinity Prime"
+ "description": "Componente del chasis del warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime"
+ "drop": [{"name": "Reliquia Axi H2 (Poco Com\u00fan)"
+ "link": "axi_h2_relic"}
+ {"name": "Reliquia Axi H1 (Poco Com\u00fan)"
+ "link": "axi_h1_relic"}
+ {"name": "Reliquia Axi S7 (Poco Com\u00fan)"
+ "link": "axi_s7_relic"}
+ {"name": "Reliquia Neo S1 (Poco Com\u00fan)"
+ "link": "neo_s1_relic"}
+ {"name": "Reliquia Lith S4 (Poco Com\u00fan)"
+ "link": "lith_s4_relic"}
+ {"name": "Reliquia Lith L3 (Poco Com\u00fan)"
+ "link": "lith_l3_relic"}]}
+ "pl": {"item_name": "Trinity Prime: Pow\u0142oka"
+ "description": "Pow\u0142oka dla Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime"
+ "drop": [{"name": "Relikt Axi H2 (Nieprzeci\u0119tny)"
+ "link": "axi_h2_relic"}
+ {"name": "Relikt Axi H1 (Nieprzeci\u0119tny)"
+ "link": "axi_h1_relic"}
+ {"name": "Relikt Axi S7 (Nieprzeci\u0119tny)"
+ "link": "axi_s7_relic"}
+ {"name": "Relikt Neo S1 (Nieprzeci\u0119tny)"
+ "link": "neo_s1_relic"}
+ {"name": "Relikt Lith S4 (Nieprzeci\u0119tny)"
+ "link": "lith_s4_relic"}
+ {"name": "Relikt Lith L3 (Nieprzeci\u0119tny)"
+ "link": "lith_l3_relic"}]}}
+ {"icon_format": "port"
+ "sub_icon": "sub_icons/warframe/prime_systems_128x128.png"
+ "set_root": false
+ "id": "561536a1b66f836f854b966a"
+ "url_name": "trinity_prime_systems"
+ "mastery_level": 0
+ "ducats": 15
+ "tags": ["component"
+ "blueprint"
+ "prime"
+ "systems"
+ "warframe"]
+ "trading_tax": 2000
+ "thumb": "icons/en/thumbs/trinity_prime_systems.4115dba418ab8ee70197a7fdaee8da76.128x128.png"
+ "icon": "icons/en/trinity_prime_systems.4115dba418ab8ee70197a7fdaee8da76.png"
+ "quantity_for_set": 1
+ "en": {"item_name": "Trinity Prime Systems"
+ "description": "Systems component of the Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi C2 Relic (Common)"
+ "link": "axi_c2_relic"}
+ {"name": "Axi V4 Relic (Common)"
+ "link": "axi_v4_relic"}
+ {"name": "Axi V3 Relic (Common)"
+ "link": "axi_v3_relic"}
+ {"name": "Axi V2 Relic (Common)"
+ "link": "axi_v2_relic"}
+ {"name": "Axi A1 Relic (Common)"
+ "link": "axi_a1_relic"}
+ {"name": "Neo B1 Relic (Common)"
+ "link": "neo_b1_relic"}
+ {"name": "Neo N12 Relic (Common)"
+ "link": "neo_n12_relic"}
+ {"name": "Neo D4 Relic (Common)"
+ "link": "neo_d4_relic"}]}
+ "ru": {"item_name": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": [{"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 C2 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_c2_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 V4 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_v4_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 V3 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_v3_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 V2 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_v2_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u0410\u043a\u0441\u0438 A1 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "axi_a1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e B1 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_b1_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e N12 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_n12_relic"}
+ {"name": "\u0420\u0435\u043b\u0438\u043a\u0432\u0438\u044f \u041d\u0435\u043e D4 (\u041e\u0431\u044b\u0447\u043d\u044b\u0439)"
+ "link": "neo_d4_relic"}]}
+ "ko": {"item_name": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc2dc\uc2a4\ud15c"
+ "description": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc2dc\uc2a4\ud15c \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\uc561\uc2dc C2 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_c2_relic"}
+ {"name": "\uc561\uc2dc V4 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_v4_relic"}
+ {"name": "\uc561\uc2dc V3 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_v3_relic"}
+ {"name": "\uc561\uc2dc V2 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_v2_relic"}
+ {"name": "\uc561\uc2dc A1 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "axi_a1_relic"}
+ {"name": "\ub124\uc624 B1 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_b1_relic"}
+ {"name": "\ub124\uc624 N12 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_n12_relic"}
+ {"name": "\ub124\uc624 D4 \uc131\uc720\ubb3c (\ucee4\uba3c)"
+ "link": "neo_d4_relic"}]}
+ "fr": {"item_name": "Trinity Prime - Syst\u00e8mes"
+ "description": "Le composant Syst\u00e8mes de la Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime"
+ "drop": [{"name": "Relique Axi C2 (Commun)"
+ "link": "axi_c2_relic"}
+ {"name": "Relique Axi V4 (Commun)"
+ "link": "axi_v4_relic"}
+ {"name": "Relique Axi V3 (Commun)"
+ "link": "axi_v3_relic"}
+ {"name": "Relique Axi V2 (Commun)"
+ "link": "axi_v2_relic"}
+ {"name": "Relique Axi A1 (Commun)"
+ "link": "axi_a1_relic"}
+ {"name": "Relique Neo B1 (Commun)"
+ "link": "neo_b1_relic"}
+ {"name": "Relique Neo N12 (Commun)"
+ "link": "neo_n12_relic"}
+ {"name": "Relique Neo D4 (Commun)"
+ "link": "neo_d4_relic"}]}
+ "sv": {"item_name": "Trinity Prime Systems"
+ "description": "Systems component of the Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi C2 Relic (Common)"
+ "link": "axi_c2_relic"}
+ {"name": "Axi V4 Relic (Common)"
+ "link": "axi_v4_relic"}
+ {"name": "Axi V3 Relic (Common)"
+ "link": "axi_v3_relic"}
+ {"name": "Axi V2 Relic (Common)"
+ "link": "axi_v2_relic"}
+ {"name": "Axi A1 Relic (Common)"
+ "link": "axi_a1_relic"}
+ {"name": "Neo B1 Relic (Common)"
+ "link": "neo_b1_relic"}
+ {"name": "Neo N12 Relic (Common)"
+ "link": "neo_n12_relic"}
+ {"name": "Neo D4 Relic (Common)"
+ "link": "neo_d4_relic"}]}
+ "de": {"item_name": "Trinity Prime: Systeme"
+ "description": "Systeme-Komponente f\u00fcr den Trinity Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
+ "drop": [{"name": "Axi-relikt: C2 (Gew\u00f6hnlich)"
+ "link": "axi_c2_relic"}
+ {"name": "Axi-relikt: V4 (Gew\u00f6hnlich)"
+ "link": "axi_v4_relic"}
+ {"name": "Axi-relikt: V3 (Gew\u00f6hnlich)"
+ "link": "axi_v3_relic"}
+ {"name": "Axi-relikt: V2 (Gew\u00f6hnlich)"
+ "link": "axi_v2_relic"}
+ {"name": "Axi-relikt: A1 (Gew\u00f6hnlich)"
+ "link": "axi_a1_relic"}
+ {"name": "Neo-relikt: B1 (Gew\u00f6hnlich)"
+ "link": "neo_b1_relic"}
+ {"name": "Neo-relikt: N12 (Gew\u00f6hnlich)"
+ "link": "neo_n12_relic"}
+ {"name": "Neo-relikt: D4 (Gew\u00f6hnlich)"
+ "link": "neo_d4_relic"}]}
+ "zh-hant": {"item_name": "Trinity Prime \u7cfb\u7d71"
+ "description": "Trinity Prime Warframe \u7684\u7cfb\u7d71\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u5f8c\u7d00 C2 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_c2_relic"}
+ {"name": "\u5f8c\u7d00 V4 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_v4_relic"}
+ {"name": "\u5f8c\u7d00 V3 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_v3_relic"}
+ {"name": "\u5f8c\u7d00 V2 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_v2_relic"}
+ {"name": "\u5f8c\u7d00 A1 \u907a\u7269 (\u5e38\u898b)"
+ "link": "axi_a1_relic"}
+ {"name": "\u4e2d\u7d00 B1 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_b1_relic"}
+ {"name": "\u4e2d\u7d00 N12 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_n12_relic"}
+ {"name": "\u4e2d\u7d00 D4 \u907a\u7269 (\u5e38\u898b)"
+ "link": "neo_d4_relic"}]}
+ "zh-hans": {"item_name": "Trinity Prime \u7cfb\u7edf"
+ "description": "Trinity Prime \u6218\u7532\u7684\u7cfb\u7edf\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": [{"name": "\u540e\u7eaa C2 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_c2_relic"}
+ {"name": "\u540e\u7eaa V4 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_v4_relic"}
+ {"name": "\u540e\u7eaa V3 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_v3_relic"}
+ {"name": "\u540e\u7eaa V2 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_v2_relic"}
+ {"name": "\u540e\u7eaa A1 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "axi_a1_relic"}
+ {"name": "\u4e2d\u7eaa B1 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_b1_relic"}
+ {"name": "\u4e2d\u7eaa N12 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_n12_relic"}
+ {"name": "\u4e2d\u7eaa D4 \u9057\u7269 (\u5e38\u89c1)"
+ "link": "neo_d4_relic"}]}
+ "pt": {"item_name": "Trinity Prime: Sistemas"
+ "description": "Sistemas componentes do Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
+ "drop": [{"name": "Rel\u00edquia Axi C2 (Comum)"
+ "link": "axi_c2_relic"}
+ {"name": "Rel\u00edquia Axi V4 (Comum)"
+ "link": "axi_v4_relic"}
+ {"name": "Rel\u00edquia Axi V3 (Comum)"
+ "link": "axi_v3_relic"}
+ {"name": "Rel\u00edquia Axi V2 (Comum)"
+ "link": "axi_v2_relic"}
+ {"name": "Rel\u00edquia Axi A1 (Comum)"
+ "link": "axi_a1_relic"}
+ {"name": "Rel\u00edquia Neo B1 (Comum)"
+ "link": "neo_b1_relic"}
+ {"name": "Rel\u00edquia Neo N12 (Comum)"
+ "link": "neo_n12_relic"}
+ {"name": "Rel\u00edquia Neo D4 (Comum)"
+ "link": "neo_d4_relic"}]}
+ "es": {"item_name": "Sistemas De Trinity Prime"
+ "description": "Componente de los sistemas del warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime"
+ "drop": [{"name": "Reliquia Axi C2 (Com\u00fan)"
+ "link": "axi_c2_relic"}
+ {"name": "Reliquia Axi V4 (Com\u00fan)"
+ "link": "axi_v4_relic"}
+ {"name": "Reliquia Axi V3 (Com\u00fan)"
+ "link": "axi_v3_relic"}
+ {"name": "Reliquia Axi V2 (Com\u00fan)"
+ "link": "axi_v2_relic"}
+ {"name": "Reliquia Axi A1 (Com\u00fan)"
+ "link": "axi_a1_relic"}
+ {"name": "Reliquia Neo B1 (Com\u00fan)"
+ "link": "neo_b1_relic"}
+ {"name": "Reliquia Neo N12 (Com\u00fan)"
+ "link": "neo_n12_relic"}
+ {"name": "Reliquia Neo D4 (Com\u00fan)"
+ "link": "neo_d4_relic"}]}
+ "pl": {"item_name": "Trinity Prime: Systemy"
+ "description": "Systemy dla Warframe Trinity Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime"
+ "drop": [{"name": "Relikt Axi C2 (Powszechny)"
+ "link": "axi_c2_relic"}
+ {"name": "Relikt Axi V4 (Powszechny)"
+ "link": "axi_v4_relic"}
+ {"name": "Relikt Axi V3 (Powszechny)"
+ "link": "axi_v3_relic"}
+ {"name": "Relikt Axi V2 (Powszechny)"
+ "link": "axi_v2_relic"}
+ {"name": "Relikt Axi A1 (Powszechny)"
+ "link": "axi_a1_relic"}
+ {"name": "Relikt Neo B1 (Powszechny)"
+ "link": "neo_b1_relic"}
+ {"name": "Relikt Neo N12 (Powszechny)"
+ "link": "neo_n12_relic"}
+ {"name": "Relikt Neo D4 (Powszechny)"
+ "link": "neo_d4_relic"}]}}
+ {"icon_format": "port"
+ "sub_icon": null
+ "set_root": true
+ "id": "56783f24cbfa8f0432dd89af"
+ "url_name": "trinity_prime_set"
+ "mastery_level": 0
+ "ducats": 130
+ "tags": ["set"
+ "warframe"
+ "prime"]
+ "trading_tax": 8000
+ "thumb": "icons/en/thumbs/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.128x128.png"
+ "icon": "icons/en/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.png"
+ "en": {"item_name": "Trinity Prime Set"
+ "description": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u0421\u0442\u0430\u043d\u044c\u0442\u0435 \u043e\u043f\u043b\u043e\u0442\u043e\u043c
+ \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0449\u0438\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432
+ \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043c\u043e\u0449\u043d\u044b\u0435 \u043b\u0435\u0447\u0430\u0449\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0440\u0430\u0439\u043c. \u041e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u043f\u043e\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0441\u043b\u043e\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u043e\u043b\u0435\u0435 \u0442\u043e\u043d\u043a\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\ud2b8\ub9ac\ub2c8\ud2f0 \ud504\ub77c\uc784\uc758 \uac15\ub825\ud55c \uce58\uc720 \ub2a5\ub825\uc73c\ub85c \uc544\uad70\uc744 \ubcf4\ud638\ud558\ub294 \uc218\ud638\uc790\uac00 \ub418\uc5b4 \ubcf4\uc138\uc694. \ub354\uc6b1 \ub2e4\ucc44\ub85c\uc6b4 \ud2b9\uc131\ud654\ub97c \uc704\ud55c \ucd94\uac00 \ubaa8\ub4dc \uadf9\uc131\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": []}
+ "fr": {"item_name": "Trinity Prime - Set"
+ "description": "Devenez le bastion d\u00e9fendant ses alli\u00e9s en utilisant de puissants Pouvoirs de soin avec Trinity Prime. Elle poss\u00e8de des polarit\u00e9s de Mods alt\u00e9r\u00e9es pour une meilleure personnalisation."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime"
+ "drop": []}
+ "sv": {"item_name": "Trinity Prime Set"
+ "description": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime"
+ "drop": []}
+ "de": {"item_name": "Trinity Prime: Set"
+ "description": "Werde die Bastion f\u00fcr deine Verb\u00fcndeten und verteidige diese mit den m\u00e4chtigen Heilungsf\u00e4higkeiten von Trinity Prime. Bietet ver\u00e4nderte Mod-Polarit\u00e4ten f\u00fcr noch bessere Anpassungsm\u00f6glichkeiten."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Trinity Prime \u4e00\u5957"
+ "description": "Trinity Prime \u64cd\u63a7\u5f37\u5927\u7684\u6cbb\u7652\u80fd\u529b\uff0c\u6210\u70ba\u634d\u885b\u76df\u53cb\u7684\u58c1\u58d8\uff0c\u64c1\u6709\u6539\u9020\u904e\u7684 MOD \u6975\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u512a\u79c0\u7684\u81ea\u8a02\u6027\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Trinity Prime \u4e00\u5957"
+ "description": "Trinity Prime \u64cd\u63a7\u5f3a\u5927\u7684\u6cbb\u6108\u80fd\u529b\uff0c\u6210\u4e3a\u634d\u536b\u53cb\u519b\u7684\u58c1\u5792\u3002\u62e5\u6709\u6539\u9020\u8fc7\u7684 Mod \u6781\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u4f18\u79c0\u7684\u81ea\u5b9a\u4e49\u7a7a\u95f4\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime"
+ "drop": []}
+ "pt": {"item_name": "Trinity Prime: Conjunto"
+ "description": "Transforme-se no fio de esperan\u00e7a que defende os aliados usando habilidades poderosas de cura com a Trinity Prime. Inclusas polaridades alteradas de mods para uma maior personaliza\u00e7\u00e3o."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
+ "drop": []}
+ "es": {"item_name": "Set de Trinity Prime"
+ "description": "Convi\u00e9rtete en un basti\u00f3n que defiende a sus aliados con habilidades de sanaci\u00f3n con Trinity Prime. Cuenta con polaridades de mod alteradas para una mayor personalizaci\u00f3n."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime"
+ "drop": []}
+ "pl": {"item_name": "Trinity Prime: Zestaw"
+ "description": "Sta\u0144 si\u0119 podpor\u0105 zespo\u0142u chroni\u0105c\u0105 sojusznik\u00f3w przed atakiem wroga przy pomocy lecz\u0105cych umiej\u0119tno\u015bci Trinity Prime. Zawiera zmienione polaryzacje
+ dla wi\u0119kszych mo\u017cliwo\u015bci personalizacji."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime"
+ "drop": []}}]}}}

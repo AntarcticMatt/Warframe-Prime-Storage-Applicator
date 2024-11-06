@@ -1,0 +1,297 @@
+{"payload": {"item": {"id": "5ba9f2034567de01415f638b"
+ "items_in_set": [{"mastery_level": 6
+ "thumb": "items/images/en/thumbs/chroma_prime_systems.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+ "set_root": false
+ "sub_icon": "sub_icons/warframe/prime_systems_128x128.png"
+ "icon_format": "land"
+ "url_name": "chroma_prime_systems"
+ "quantity_for_set": 1
+ "id": "5ba9f2014567de01415f6387"
+ "icon": "items/images/en/chroma_prime_systems.746ea1c1556aa60f94f0c2399946baaf.png"
+ "tags": ["component"
+ "prime"
+ "warframe"
+ "blueprint"]
+ "trading_tax": 2000
+ "ducats": 65
+ "en": {"item_name": "Chroma Prime Systems Blueprint"
+ "description": "Systems component of the Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u0421\u0438\u0441\u0442\u0435\u043c\u0430."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc2dc\uc2a4\ud15c \uc124\uacc4\ub3c4"
+ "description": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc2dc\uc2a4\ud15c \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "fr": {"item_name": "Chroma Prime - Syst\u00e8mes (Sch\u00e9ma)"
+ "description": "Le composant Syst\u00e8mes de la Warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
+ "drop": []}
+ "sv": {"item_name": "Chroma Prime Systems Blueprint"
+ "description": "Systems component of the Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "de": {"item_name": "Chroma Prime: Systeme Blaupause"
+ "description": "Systeme-Komponente f\u00fcr den Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Chroma Prime \u7cfb\u7d71 \u85cd\u5716"
+ "description": "Chroma Prime Warframe \u7684\u7cfb\u7d71\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Chroma Prime \u7cfb\u7edf \u84dd\u56fe"
+ "description": "Chroma Prime \u6218\u7532\u7684\u7cfb\u7edf\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "pt": {"item_name": "Chroma Prime: Sistemas (Diagrama)"
+ "description": "Sistemas componentes do Warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Sistemas De Chroma Prime"
+ "description": "Componente de los sistemas del warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
+ "drop": []}
+ "pl": {"item_name": "Chroma Prime: Systemy - Schemat"
+ "description": "Systemy dla Warframe'a Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
+ "drop": []}}
+ {"mastery_level": 6
+ "thumb": "items/images/en/thumbs/chroma_prime_chassis.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+ "set_root": false
+ "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png"
+ "icon_format": "land"
+ "url_name": "chroma_prime_chassis"
+ "quantity_for_set": 1
+ "id": "5ba9f2024567de01415f6388"
+ "icon": "items/images/en/chroma_prime_chassis.746ea1c1556aa60f94f0c2399946baaf.png"
+ "tags": ["component"
+ "prime"
+ "warframe"
+ "blueprint"]
+ "trading_tax": 2000
+ "ducats": 25
+ "en": {"item_name": "Chroma Prime Chassis Blueprint"
+ "description": "Chassis component of the Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u041a\u0430\u0440\u043a\u0430\u0441."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc100\uc2dc \uc124\uacc4\ub3c4"
+ "description": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \uc100\uc2dc \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "fr": {"item_name": "Chroma Prime - Ch\u00e2ssis (Sch\u00e9ma)"
+ "description": "Le composant Ch\u00e2ssis de la Warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
+ "drop": []}
+ "sv": {"item_name": "Chroma Prime Chassis Blueprint"
+ "description": "Chassis component of the Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "de": {"item_name": "Chroma Prime: Chassis Blaupause"
+ "description": "Chassis-Komponente f\u00fcr den Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Chroma Prime \u6a5f\u9ad4 \u85cd\u5716"
+ "description": "Chroma Prime Warframe \u7684\u6a5f\u9ad4\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Chroma Prime \u673a\u4f53 \u84dd\u56fe"
+ "description": "Chroma Prime \u6218\u7532\u7684\u673a\u4f53\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "pt": {"item_name": "Chroma Prime: Chassi (Diagrama)"
+ "description": "Chassi componente do Warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Chasis De Chroma Prime"
+ "description": "Componente del chasis del warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
+ "drop": []}
+ "pl": {"item_name": "Chroma Prime: Pow\u0142oka - Schemat"
+ "description": "Pow\u0142oka dla Warframe'a Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
+ "drop": []}}
+ {"mastery_level": 6
+ "thumb": "items/images/en/thumbs/chroma_prime_neuroptics.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+ "set_root": false
+ "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png"
+ "icon_format": "land"
+ "url_name": "chroma_prime_neuroptics"
+ "quantity_for_set": 1
+ "id": "5ba9f2024567de01415f6389"
+ "icon": "items/images/en/chroma_prime_neuroptics.746ea1c1556aa60f94f0c2399946baaf.png"
+ "tags": ["component"
+ "prime"
+ "warframe"
+ "blueprint"]
+ "trading_tax": 2000
+ "ducats": 100
+ "en": {"item_name": "Chroma Prime Neuroptics Blueprint"
+ "description": "Neuroptics component of the Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u041d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430 (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0432\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u0430 \u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u043d\u0435\u0439\u0440\u043e\u043e\u043f\u0442\u0438\u043a\u0430."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \ub274\ub85c\uc635\ud2f1\uc2a4 \uc124\uacc4\ub3c4"
+ "description": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc6cc\ud504\ub808\uc784\uc758 \ub274\ub85c\uc635\ud2f1\uc2a4 \ubd80\ubd84\uc785\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "fr": {"item_name": "Chroma Prime - Neuroptiques (Sch\u00e9ma)"
+ "description": "Le composant Neuroptiques de la Warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
+ "drop": []}
+ "sv": {"item_name": "Chroma Prime Neuroptics Blueprint"
+ "description": "Neuroptics component of the Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "de": {"item_name": "Chroma Prime: Neuroptik Blaupause"
+ "description": "Neuroptik-Komponente f\u00fcr den Chroma Prime Warframe."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Chroma Prime \u982d\u90e8\u795e\u7d93\u5149\u5143 \u85cd\u5716"
+ "description": "Chroma Prime Warframe \u7684\u982d\u90e8\u795e\u7d93\u5149\u5143\u7d44\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Chroma Prime \u5934\u90e8\u795e\u7ecf\u5149\u5143 \u84dd\u56fe"
+ "description": "Chroma Prime \u6218\u7532\u7684\u5934\u90e8\u795e\u7ecf\u5149\u5143\u7ec4\u4ef6\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "pt": {"item_name": "Chroma Prime: Neurovisor (Diagrama)"
+ "description": "Neurovisor componente do Warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Neur\u00f3pticas De Chroma Prime"
+ "description": "Componente de las neur\u00f3pticas del warframe Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
+ "drop": []}
+ "pl": {"item_name": "Chroma Prime: Neurooptyka - Schemat"
+ "description": "Neurooptyka dla Warframe'a Chroma Prime."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
+ "drop": []}}
+ {"mastery_level": 6
+ "thumb": "items/images/en/thumbs/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+ "set_root": true
+ "sub_icon": null
+ "icon_format": "land"
+ "url_name": "chroma_prime_set"
+ "id": "5ba9f2034567de01415f638b"
+ "icon": "items/images/en/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.png"
+ "tags": ["set"
+ "prime"
+ "warframe"]
+ "trading_tax": 8000
+ "ducats": 205
+ "en": {"item_name": "Chroma Prime Set"
+ "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442"
+ "description": "\u041f\u043e\u0434\u0447\u0438\u043d\u0438\u0442\u0435 \u0441\u0442\u0438\u0445\u0438\u0438 \u0438 \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u0435 \u043d\u0435\u043e\u043f\u0438\u0441\u0443\u0435\u043c\u044b\u0435 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u044f \u0441 \u0412\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u043e\u043c \u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c. \u041e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u043f\u043e\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0441\u043b\u043e\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u043e\u043b\u0435\u0435 \u0442\u043e\u043d\u043a\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc138\ud2b8"
+ "description": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784\uc73c\ub85c \uc6d0\uc18c\ub4e4\uc744 \uacb0\uc18d\uc2dc\ucf1c \ub9c9\ub300\ud55c \ud30c\uad34\ub97c \ubd88\ub7ec\uc77c\uc73c\ucf1c\ubcf4\uc138\uc694. \ub354\uc6b1 \ub2e4\ucc44\ub85c\uc6b4 \ud2b9\uc131\ud654\ub97c \uc704\ud55c \ucd94\uac00 \ubaa8\ub4dc \uadf9\uc131\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "fr": {"item_name": "Chroma Prime - Set"
+ "description": "Ma\u00eetrisez les \u00e9l\u00e9ments et lib\u00e9rez une destruction sans pr\u00e9c\u00e9dent avec Chroma Prime. Elle poss\u00e8de des polarit\u00e9s de mods alt\u00e9r\u00e9es pour une meilleure personnalisation."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
+ "drop": []}
+ "sv": {"item_name": "Chroma Prime Set"
+ "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "de": {"item_name": "Chroma Prime: Set"
+ "description": "Meistere die Elemente und entfessele nie gekannte Zerst\u00f6rung
+ mit Chroma Prime. Bietet ver\u00e4nderte Mod-Polarit\u00e4ten f\u00fcr noch bessere Anpassungsm\u00f6glichkeiten."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Chroma Prime \u4e00\u5957"
+ "description": "\u8207\u5143\u7d20\u7dca\u5bc6\u7d50\u5408\u4e26\u767c\u52d5\u7121\u76e1\u6bc0\u6ec5\u4e4b\u529b\u7684 Chroma Prime\uff0c\u64c1\u6709\u6539\u9020\u904e\u7684 MOD \u6975\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u512a\u79c0\u7684\u81ea\u8a02\u6027\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Chroma Prime \u4e00\u5957"
+ "description": "\u4e0e\u5143\u7d20\u7d27\u5bc6\u7ed3\u5408\u5e76\u53d1\u52a8\u65e0\u5c3d\u6bc1\u706d\u4e4b\u529b\u7684 Chroma Prime\u3002\u62e5\u6709\u6539\u9020\u8fc7\u7684 Mod \u6781\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u4f18\u79c0\u7684\u81ea\u5b9a\u4e49\u7a7a\u95f4\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "pt": {"item_name": "Chroma Prime: Conjunto"
+ "description": "Combine os elementos e desencadeie destrui\u00e7\u00e3o imensur\u00e1vel com o Chroma Prime. Inclusas polaridades alteradas de mods para uma maior personaliza\u00e7\u00e3o."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
+ "drop": []}
+ "es": {"item_name": "Set de Chroma Prime"
+ "description": "Enlaza los elementos y desencadena la destrucci\u00f3n indecible con el Chroma Prime. Cuenta con polaridades de mod alteradas para una mayor personalizaci\u00f3n."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
+ "drop": []}
+ "pl": {"item_name": "Chroma Prime: Zestaw"
+ "description": "Po\u0142\u0105cz \u017cywio\u0142y rozp\u0119tuj\u0105c nieop\u0119tan\u0105 destrukcj\u0119 Chrom\u0105 Prime. Zawiera zmienione polaryzacje
+ dla wi\u0119kszych mo\u017cliwo\u015bci personalizacji."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
+ "drop": []}}
+ {"mastery_level": 6
+ "thumb": "items/images/en/thumbs/chroma_prime_blueprint.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+ "set_root": false
+ "sub_icon": "sub_icons/blueprint_128x128.png"
+ "icon_format": "land"
+ "url_name": "chroma_prime_blueprint"
+ "quantity_for_set": 1
+ "id": "5ba9f2054567de01415f6390"
+ "icon": "items/images/en/chroma_prime_blueprint.746ea1c1556aa60f94f0c2399946baaf.png"
+ "tags": ["blueprint"
+ "prime"
+ "warframe"]
+ "trading_tax": 2000
+ "ducats": 15
+ "en": {"item_name": "Chroma Prime Blueprint"
+ "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "ru": {"item_name": "\u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c (\u0427\u0435\u0440\u0442\u0435\u0436)"
+ "description": "\u041f\u043e\u0434\u0447\u0438\u043d\u0438\u0442\u0435 \u0441\u0442\u0438\u0445\u0438\u0438 \u0438 \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u0435 \u043d\u0435\u043e\u043f\u0438\u0441\u0443\u0435\u043c\u044b\u0435 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u044f \u0441 \u0412\u0430\u0440\u0444\u0440\u0435\u0439\u043c\u043e\u043c \u0425\u0440\u043e\u043c\u0430 \u041f\u0440\u0430\u0439\u043c. \u041e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438 \u043f\u043e\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0441\u043b\u043e\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u043e\u043b\u0435\u0435 \u0442\u043e\u043d\u043a\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438."
+ "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+ "drop": []}
+ "ko": {"item_name": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784 \uc124\uacc4\ub3c4"
+ "description": "\ud06c\ub85c\ub9c8 \ud504\ub77c\uc784\uc73c\ub85c \uc6d0\uc18c\ub4e4\uc744 \uacb0\uc18d\uc2dc\ucf1c \ub9c9\ub300\ud55c \ud30c\uad34\ub97c \ubd88\ub7ec\uc77c\uc73c\ucf1c\ubcf4\uc138\uc694. \ub354\uc6b1 \ub2e4\ucc44\ub85c\uc6b4 \ud2b9\uc131\ud654\ub97c \uc704\ud55c \ucd94\uac00 \ubaa8\ub4dc \uadf9\uc131\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "fr": {"item_name": "Chroma Prime (Sch\u00e9ma)"
+ "description": "Ma\u00eetrisez les \u00e9l\u00e9ments et lib\u00e9rez une destruction sans pr\u00e9c\u00e9dent avec Chroma Prime. Elle poss\u00e8de des polarit\u00e9s de mods alt\u00e9r\u00e9es pour une meilleure personnalisation."
+ "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
+ "drop": []}
+ "sv": {"item_name": "Chroma Prime Blueprint"
+ "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization."
+ "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+ "drop": []}
+ "de": {"item_name": "Chroma Prime Blaupause"
+ "description": "Meistere die Elemente und entfessele nie gekannte Zerst\u00f6rung
+ mit Chroma Prime. Bietet ver\u00e4nderte Mod-Polarit\u00e4ten f\u00fcr noch bessere Anpassungsm\u00f6glichkeiten."
+ "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hant": {"item_name": "Chroma Prime \u85cd\u5716"
+ "description": "\u8207\u5143\u7d20\u7dca\u5bc6\u7d50\u5408\u4e26\u767c\u52d5\u7121\u76e1\u6bc0\u6ec5\u4e4b\u529b\u7684 Chroma Prime\uff0c\u64c1\u6709\u6539\u9020\u904e\u7684 MOD \u6975\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u512a\u79c0\u7684\u81ea\u8a02\u6027\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "zh-hans": {"item_name": "Chroma Prime \u84dd\u56fe"
+ "description": "\u4e0e\u5143\u7d20\u7d27\u5bc6\u7ed3\u5408\u5e76\u53d1\u52a8\u65e0\u5c3d\u6bc1\u706d\u4e4b\u529b\u7684 Chroma Prime\u3002\u62e5\u6709\u6539\u9020\u8fc7\u7684 Mod \u6781\u6027\u69fd\uff0c\u53ef\u63d0\u4f9b\u66f4\u4f18\u79c0\u7684\u81ea\u5b9a\u4e49\u7a7a\u95f4\u3002"
+ "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+ "drop": []}
+ "pt": {"item_name": "Chroma Prime (Diagrama)"
+ "description": "Combine os elementos e desencadeie destrui\u00e7\u00e3o imensur\u00e1vel com o Chroma Prime. Inclusas polaridades alteradas de mods para uma maior personaliza\u00e7\u00e3o."
+ "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
+ "drop": []}
+ "es": {"item_name": "Plano de Chroma Prime"
+ "description": "Enlaza los elementos y desencadena la destrucci\u00f3n indecible con el Chroma Prime. Cuenta con polaridades de mod alteradas para una mayor personalizaci\u00f3n."
+ "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
+ "drop": []}
+ "pl": {"item_name": "Chroma Prime - Schemat"
+ "description": "Po\u0142\u0105cz \u017cywio\u0142y rozp\u0119tuj\u0105c nieop\u0119tan\u0105 destrukcj\u0119 Chrom\u0105 Prime. Zawiera zmienione polaryzacje
+ dla wi\u0119kszych mo\u017cliwo\u015bci personalizacji."
+ "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
+ "drop": []}}]}}}
